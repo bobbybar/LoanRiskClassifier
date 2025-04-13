@@ -1,0 +1,1001 @@
+loan_amnt,term,int_rate,grade,emp_length,home_ownership,annual_inc,purpose,addr_state,dti,delinq_2yrs,revol_util,loan_status,default
+16795,36 months,20.25,C,2 years,RENT,73172.01,home_improvement,NY,2.36,1,37.88,Fully Paid,0
+1860,36 months,20.96,G,2 years,RENT,73382.43,credit_card,FL,26.91,0,21.4,Fully Paid,0
+12284,60 months,13.71,D,1 year,MORTGAGE,76045.17,other,TX,34.58,4,5.25,Fully Paid,0
+7265,36 months,21.36,E,1 year,OWN,53787.9,debt_consolidation,CA,6.93,1,47.84,Fully Paid,0
+17850,36 months,7.4,A,< 1 year,MORTGAGE,60659.68,other,FL,32.59,1,38.48,Fully Paid,0
+22962,36 months,15.89,D,2 years,OWN,49308.31,car,FL,34.21,1,57.72,Fully Paid,0
+17023,60 months,5.12,A,1 year,OWN,94556.31,other,CA,36.62,1,22.86,Fully Paid,0
+2685,36 months,11.49,F,3 years,OWN,32887.06,car,NY,10.98,0,86.67,Fully Paid,0
+1769,60 months,12.33,B,1 year,OWN,98071.81,car,TX,36.21,1,29.49,Charged Off,1
+3433,60 months,12.92,D,10+ years,RENT,102726.99,car,NY,13.17,1,26.51,Fully Paid,0
+6311,36 months,18.91,F,10+ years,OWN,68956.39,car,FL,22.32,1,50.67,Charged Off,1
+18568,36 months,12.77,A,1 year,OWN,22937.26,car,TX,2.5,1,52.39,Fully Paid,0
+20769,36 months,13.97,C,2 years,MORTGAGE,67773.79,home_improvement,IL,2.23,0,25.43,Fully Paid,0
+29693,60 months,9.75,C,2 years,MORTGAGE,73716.32,other,FL,28.95,0,30.83,Fully Paid,0
+7396,36 months,12.47,B,5 years,RENT,54788.04,home_improvement,NY,18.06,0,21.12,Fully Paid,0
+28480,36 months,9.55,D,10+ years,MORTGAGE,64695.63,home_improvement,NY,10.62,0,73.25,Fully Paid,0
+26658,36 months,6.46,D,3 years,OWN,105603.9,credit_card,NY,8.02,0,78.16,Fully Paid,0
+19942,36 months,17.07,D,2 years,MORTGAGE,88298.54,credit_card,CA,26.96,1,48.92,Fully Paid,0
+19431,36 months,18.36,F,< 1 year,RENT,56508.72,credit_card,FL,0.52,0,72.84,Fully Paid,0
+3747,60 months,17.39,G,10+ years,MORTGAGE,43048.02,debt_consolidation,TX,32.33,0,74.91,Charged Off,1
+1189,60 months,14.27,G,3 years,MORTGAGE,68459.65,credit_card,NY,3.63,0,18.14,Fully Paid,0
+20118,36 months,12.6,B,3 years,RENT,70730.86,other,NY,8.06,0,96.79,Fully Paid,0
+2899,36 months,22.27,D,2 years,RENT,84923.98,home_improvement,CA,15.76,2,83.0,Fully Paid,0
+2267,36 months,15.38,F,3 years,OWN,64293.67,other,TX,19.65,0,24.43,Fully Paid,0
+32551,36 months,14.58,C,2 years,MORTGAGE,85229.99,credit_card,FL,14.52,1,22.69,Fully Paid,0
+12394,60 months,5.51,A,1 year,OWN,113703.08,debt_consolidation,IL,13.17,0,16.94,Fully Paid,0
+4556,36 months,11.82,F,10+ years,MORTGAGE,91310.02,debt_consolidation,CA,38.57,0,18.15,Fully Paid,0
+4890,60 months,12.6,G,5 years,MORTGAGE,74038.23,home_improvement,FL,25.84,0,76.08,Charged Off,1
+31740,60 months,12.98,G,1 year,OWN,71336.99,other,IL,1.43,2,49.62,Fully Paid,0
+15502,36 months,16.6,C,10+ years,MORTGAGE,67866.54,car,NY,17.49,0,79.38,Fully Paid,0
+22777,60 months,15.67,C,2 years,MORTGAGE,98612.82,other,NY,35.06,2,75.89,Fully Paid,0
+11627,60 months,17.16,A,10+ years,MORTGAGE,62453.73,credit_card,TX,12.41,1,62.44,Fully Paid,0
+9792,60 months,20.3,C,2 years,RENT,75904.45,car,IL,4.23,2,70.2,Fully Paid,0
+9433,60 months,21.26,B,1 year,OWN,76023.96,debt_consolidation,NY,30.46,1,6.74,Fully Paid,0
+12016,36 months,19.36,A,< 1 year,RENT,64964.32,home_improvement,NY,24.44,0,34.62,Fully Paid,0
+24897,36 months,24.11,C,< 1 year,OWN,47550.69,home_improvement,TX,23.03,0,65.59,Fully Paid,0
+3612,60 months,5.36,E,10+ years,OWN,81459.49,debt_consolidation,FL,2.62,0,5.89,Fully Paid,0
+24483,36 months,8.92,F,< 1 year,MORTGAGE,73779.92,credit_card,NY,6.05,0,8.13,Fully Paid,0
+18159,36 months,5.15,C,2 years,OWN,85004.81,debt_consolidation,CA,25.09,0,85.93,Fully Paid,0
+15541,36 months,17.95,B,3 years,RENT,64327.99,credit_card,CA,8.71,0,69.98,Fully Paid,0
+27531,36 months,22.96,D,2 years,RENT,99416.43,car,FL,20.41,0,30.21,Fully Paid,0
+2585,36 months,9.87,C,3 years,RENT,57464.52,debt_consolidation,IL,22.02,0,70.36,Fully Paid,0
+4943,60 months,23.54,G,1 year,OWN,109240.81,credit_card,TX,11.7,0,80.28,Charged Off,1
+24939,36 months,6.21,G,5 years,RENT,40047.27,car,CA,37.96,0,34.15,Charged Off,1
+20457,36 months,23.69,G,3 years,OWN,83695.4,debt_consolidation,CA,33.78,0,8.42,Fully Paid,0
+2021,36 months,12.03,D,< 1 year,RENT,84508.61,home_improvement,FL,29.03,0,93.61,Fully Paid,0
+12653,36 months,7.03,G,2 years,RENT,59088.86,debt_consolidation,IL,3.58,2,37.79,Fully Paid,0
+14417,60 months,14.72,E,1 year,OWN,83487.88,other,IL,4.69,0,15.12,Fully Paid,0
+10692,60 months,10.14,C,< 1 year,RENT,100590.37,debt_consolidation,FL,19.96,0,51.73,Fully Paid,0
+7873,60 months,10.7,G,1 year,MORTGAGE,30663.62,other,CA,6.85,1,78.0,Fully Paid,0
+6675,60 months,11.15,A,5 years,OWN,85054.9,car,TX,39.14,0,26.06,Fully Paid,0
+1161,36 months,21.06,D,2 years,OWN,25134.58,debt_consolidation,CA,6.76,0,30.6,Fully Paid,0
+27557,60 months,15.78,E,10+ years,OWN,55686.7,car,IL,19.75,1,28.06,Fully Paid,0
+34763,36 months,11.23,A,2 years,MORTGAGE,107583.33,car,CA,14.88,2,99.21,Fully Paid,0
+33606,36 months,17.21,A,5 years,OWN,63364.36,credit_card,TX,25.76,1,23.75,Fully Paid,0
+12534,36 months,19.32,A,2 years,RENT,51522.4,car,NY,5.6,1,59.67,Fully Paid,0
+30127,36 months,10.45,A,10+ years,RENT,71041.25,car,CA,17.5,1,92.9,Fully Paid,0
+26851,36 months,13.27,C,3 years,RENT,116358.13,debt_consolidation,FL,11.35,1,18.96,Fully Paid,0
+2016,60 months,7.44,G,1 year,OWN,38366.36,debt_consolidation,NY,35.57,0,97.23,Fully Paid,0
+25253,60 months,8.62,F,10+ years,RENT,53973.8,home_improvement,FL,2.1,2,95.01,Fully Paid,0
+25276,60 months,18.62,C,< 1 year,OWN,104948.63,credit_card,FL,36.59,0,89.03,Fully Paid,0
+24247,60 months,8.63,C,5 years,RENT,112154.05,car,FL,33.4,0,25.38,Fully Paid,0
+25300,36 months,15.5,E,3 years,MORTGAGE,72931.38,credit_card,CA,12.25,2,65.24,Fully Paid,0
+9529,60 months,19.18,E,< 1 year,MORTGAGE,50218.95,other,IL,31.68,0,77.28,Fully Paid,0
+18262,36 months,7.14,G,< 1 year,MORTGAGE,116916.87,car,NY,1.73,0,98.67,Fully Paid,0
+10268,60 months,16.35,F,5 years,MORTGAGE,106888.85,credit_card,TX,38.69,1,22.14,Fully Paid,0
+22271,36 months,10.13,E,3 years,OWN,88578.94,home_improvement,IL,21.3,0,77.77,Fully Paid,0
+13185,36 months,24.26,G,< 1 year,RENT,58751.95,home_improvement,CA,12.48,1,37.19,Fully Paid,0
+22243,60 months,14.67,G,< 1 year,MORTGAGE,74019.41,car,FL,14.82,0,21.68,Fully Paid,0
+9571,36 months,21.12,B,3 years,OWN,71792.8,other,TX,3.12,0,45.03,Fully Paid,0
+3568,36 months,16.0,F,2 years,MORTGAGE,81617.03,home_improvement,NY,39.58,0,80.41,Fully Paid,0
+3027,60 months,5.87,E,< 1 year,MORTGAGE,104020.03,home_improvement,IL,2.05,0,49.16,Fully Paid,0
+3695,36 months,17.66,F,1 year,OWN,92588.34,other,IL,26.37,0,56.06,Fully Paid,0
+6258,60 months,24.03,C,3 years,OWN,53452.48,credit_card,TX,17.99,0,99.54,Fully Paid,0
+23002,60 months,17.03,C,< 1 year,RENT,102529.93,home_improvement,CA,37.98,1,42.92,Fully Paid,0
+34159,60 months,21.38,F,5 years,RENT,81262.64,debt_consolidation,NY,10.22,0,63.46,Fully Paid,0
+14986,36 months,22.68,B,10+ years,MORTGAGE,88741.32,home_improvement,TX,21.52,0,39.7,Charged Off,1
+13666,36 months,9.56,B,1 year,MORTGAGE,104330.82,credit_card,FL,19.55,0,42.31,Fully Paid,0
+4561,36 months,9.24,F,10+ years,RENT,52768.4,credit_card,NY,28.26,1,71.09,Charged Off,1
+27854,60 months,17.22,E,10+ years,RENT,74283.49,car,IL,3.19,1,94.1,Fully Paid,0
+23662,36 months,13.22,D,< 1 year,OWN,64370.91,debt_consolidation,TX,8.15,0,56.52,Fully Paid,0
+9392,60 months,21.8,B,1 year,RENT,43642.81,credit_card,IL,8.98,0,78.0,Fully Paid,0
+31535,60 months,23.0,A,1 year,RENT,81934.2,other,IL,29.66,0,13.47,Fully Paid,0
+14067,36 months,12.07,C,2 years,MORTGAGE,125231.13,debt_consolidation,IL,7.97,0,25.06,Fully Paid,0
+24599,60 months,9.74,F,10+ years,RENT,38198.45,debt_consolidation,CA,23.15,1,52.7,Fully Paid,0
+12837,36 months,20.61,A,1 year,MORTGAGE,74354.39,other,IL,9.0,0,6.9,Fully Paid,0
+15039,36 months,10.5,F,2 years,RENT,87810.86,home_improvement,FL,34.53,0,29.02,Fully Paid,0
+31818,36 months,21.45,G,3 years,OWN,77461.56,other,FL,37.72,0,54.15,Fully Paid,0
+20115,36 months,13.47,C,2 years,RENT,72737.44,other,NY,20.98,0,6.42,Charged Off,1
+11965,36 months,18.35,C,5 years,RENT,49015.67,home_improvement,IL,14.42,0,30.13,Fully Paid,0
+25538,60 months,6.91,B,< 1 year,RENT,79655.73,home_improvement,IL,9.75,0,53.83,Fully Paid,0
+6056,60 months,17.48,B,3 years,MORTGAGE,59864.72,home_improvement,TX,2.47,0,59.45,Fully Paid,0
+33482,60 months,14.04,A,3 years,OWN,31201.57,home_improvement,CA,11.11,1,92.95,Fully Paid,0
+9110,36 months,16.73,G,5 years,RENT,98891.84,home_improvement,NY,26.34,0,66.31,Fully Paid,0
+14773,36 months,8.36,F,2 years,MORTGAGE,94167.72,other,IL,21.58,0,44.4,Fully Paid,0
+28266,36 months,19.74,G,< 1 year,OWN,76033.22,car,TX,37.79,1,93.38,Fully Paid,0
+18412,60 months,22.26,C,2 years,MORTGAGE,79581.49,car,CA,16.15,0,79.56,Fully Paid,0
+34270,36 months,9.33,A,1 year,MORTGAGE,96486.36,credit_card,NY,27.91,0,24.0,Charged Off,1
+7910,60 months,6.91,D,2 years,OWN,79486.79,car,NY,19.83,0,17.43,Fully Paid,0
+26446,60 months,5.47,A,3 years,RENT,93080.35,car,IL,20.75,0,69.2,Charged Off,1
+1206,36 months,17.84,E,< 1 year,MORTGAGE,69050.36,other,NY,11.08,2,58.19,Charged Off,1
+22518,36 months,17.14,A,2 years,MORTGAGE,101239.67,home_improvement,TX,18.47,1,80.02,Fully Paid,0
+23361,60 months,15.93,G,< 1 year,RENT,81415.71,home_improvement,NY,19.1,0,75.19,Fully Paid,0
+24419,36 months,9.64,E,< 1 year,RENT,78881.04,other,FL,28.41,2,64.4,Fully Paid,0
+23403,60 months,12.82,E,1 year,OWN,49598.78,car,TX,37.66,1,98.71,Fully Paid,0
+19141,36 months,16.89,E,1 year,OWN,80739.12,other,CA,13.51,0,55.69,Fully Paid,0
+15820,36 months,14.94,D,3 years,OWN,58360.9,credit_card,CA,2.17,0,15.75,Fully Paid,0
+7374,60 months,24.76,A,5 years,RENT,62234.35,home_improvement,IL,20.1,0,83.69,Fully Paid,0
+2678,36 months,7.73,G,< 1 year,MORTGAGE,58692.49,debt_consolidation,IL,22.01,0,28.93,Fully Paid,0
+34827,60 months,18.9,A,5 years,MORTGAGE,53675.3,credit_card,FL,7.15,0,78.84,Charged Off,1
+17198,36 months,13.09,D,3 years,OWN,117495.43,credit_card,CA,30.54,0,95.93,Fully Paid,0
+10914,60 months,13.56,C,< 1 year,RENT,101626.78,other,CA,39.4,0,71.2,Fully Paid,0
+28890,60 months,19.35,B,< 1 year,MORTGAGE,113407.35,car,CA,37.86,0,61.62,Charged Off,1
+23299,36 months,18.85,G,10+ years,OWN,50542.1,home_improvement,CA,8.29,1,48.74,Fully Paid,0
+3693,60 months,24.83,G,5 years,MORTGAGE,76425.07,debt_consolidation,NY,35.08,0,39.62,Fully Paid,0
+30467,36 months,7.57,A,2 years,MORTGAGE,49129.85,credit_card,TX,28.33,0,38.54,Fully Paid,0
+30723,36 months,7.08,B,1 year,RENT,61086.1,debt_consolidation,TX,18.43,0,65.46,Fully Paid,0
+4627,36 months,19.49,F,2 years,RENT,56637.46,car,FL,21.85,1,76.37,Fully Paid,0
+26939,60 months,16.57,F,5 years,MORTGAGE,99791.68,car,NY,34.06,1,69.46,Charged Off,1
+22834,60 months,10.48,D,1 year,OWN,67075.41,debt_consolidation,CA,19.47,0,23.85,Fully Paid,0
+19047,36 months,6.59,F,2 years,RENT,96367.59,home_improvement,CA,15.24,0,51.93,Fully Paid,0
+27105,36 months,6.71,G,10+ years,MORTGAGE,87082.42,car,IL,19.98,0,80.21,Fully Paid,0
+11230,60 months,22.88,F,1 year,RENT,121072.78,debt_consolidation,IL,23.38,0,50.19,Fully Paid,0
+16707,36 months,8.84,C,< 1 year,RENT,45411.12,credit_card,FL,7.97,0,55.98,Charged Off,1
+22976,36 months,11.47,C,2 years,RENT,100184.66,debt_consolidation,CA,36.09,0,78.26,Charged Off,1
+24776,60 months,9.53,C,1 year,MORTGAGE,97928.82,debt_consolidation,FL,27.13,0,67.82,Fully Paid,0
+31080,36 months,12.1,F,10+ years,OWN,55532.42,other,NY,25.51,1,43.89,Fully Paid,0
+2306,60 months,6.39,D,1 year,OWN,95142.67,car,TX,4.43,0,90.06,Fully Paid,0
+7776,36 months,15.38,E,1 year,OWN,81722.9,home_improvement,CA,24.36,0,20.44,Fully Paid,0
+28251,60 months,6.35,E,10+ years,RENT,70450.47,home_improvement,NY,5.28,0,99.57,Fully Paid,0
+10474,36 months,21.01,B,2 years,MORTGAGE,58521.29,other,CA,3.61,0,16.29,Fully Paid,0
+22959,36 months,9.67,E,3 years,RENT,60617.81,home_improvement,IL,21.33,2,6.42,Charged Off,1
+6530,60 months,15.8,E,2 years,OWN,115996.24,debt_consolidation,FL,16.41,0,89.55,Fully Paid,0
+30320,36 months,22.6,C,5 years,OWN,75013.66,other,IL,23.76,0,28.27,Charged Off,1
+4748,60 months,18.02,C,10+ years,MORTGAGE,90642.6,credit_card,TX,4.02,1,74.32,Fully Paid,0
+32968,36 months,15.66,F,2 years,RENT,59182.01,car,IL,17.52,0,82.05,Fully Paid,0
+33562,60 months,11.49,B,1 year,OWN,59402.94,car,CA,7.4,0,86.6,Charged Off,1
+14545,60 months,11.66,A,10+ years,MORTGAGE,96639.7,car,IL,39.49,1,99.2,Fully Paid,0
+1663,60 months,18.39,G,< 1 year,RENT,48008.48,debt_consolidation,CA,22.67,0,32.93,Charged Off,1
+8994,60 months,24.88,B,2 years,RENT,66695.72,credit_card,TX,27.65,1,72.47,Fully Paid,0
+29021,36 months,18.24,B,10+ years,OWN,75680.55,other,IL,13.35,1,15.96,Fully Paid,0
+31303,36 months,16.16,D,2 years,OWN,77227.45,other,FL,4.24,1,43.65,Charged Off,1
+4304,60 months,19.61,F,10+ years,RENT,71418.13,car,FL,39.05,0,85.56,Fully Paid,0
+18675,60 months,14.3,D,1 year,RENT,82916.4,credit_card,FL,11.81,1,39.93,Charged Off,1
+24938,60 months,6.2,B,< 1 year,OWN,88857.12,credit_card,IL,17.24,1,61.15,Charged Off,1
+24664,36 months,16.25,B,< 1 year,RENT,89692.75,credit_card,IL,26.17,1,52.86,Fully Paid,0
+2636,36 months,24.15,B,5 years,OWN,55283.92,home_improvement,IL,1.48,1,66.37,Fully Paid,0
+21080,36 months,8.51,E,10+ years,RENT,69316.9,home_improvement,CA,32.51,2,97.42,Fully Paid,0
+28728,36 months,18.8,G,2 years,OWN,98895.26,car,TX,21.69,2,10.29,Fully Paid,0
+27736,60 months,9.02,G,< 1 year,MORTGAGE,92892.94,credit_card,FL,11.49,0,59.53,Fully Paid,0
+29673,60 months,15.72,D,< 1 year,OWN,47542.81,credit_card,CA,2.93,0,86.99,Fully Paid,0
+1854,60 months,6.93,B,3 years,OWN,82029.6,other,FL,6.92,0,50.73,Fully Paid,0
+25548,36 months,14.01,G,3 years,MORTGAGE,35435.5,other,CA,35.85,0,12.46,Fully Paid,0
+8392,36 months,20.12,C,< 1 year,RENT,75938.7,car,IL,27.6,0,58.25,Fully Paid,0
+22556,36 months,11.95,G,10+ years,MORTGAGE,112955.34,credit_card,FL,10.37,0,36.55,Charged Off,1
+27309,60 months,18.3,F,5 years,OWN,56042.15,car,IL,3.09,0,19.72,Fully Paid,0
+22919,60 months,20.91,F,< 1 year,RENT,58313.54,other,FL,27.78,0,85.66,Charged Off,1
+5931,36 months,23.54,G,1 year,MORTGAGE,90280.6,other,NY,23.11,2,54.55,Fully Paid,0
+33970,60 months,9.69,C,2 years,RENT,44143.97,home_improvement,CA,16.48,1,93.66,Fully Paid,0
+13688,36 months,12.99,F,5 years,RENT,62344.9,car,NY,14.86,1,81.57,Fully Paid,0
+26342,36 months,8.05,E,1 year,MORTGAGE,86928.82,car,CA,9.06,0,70.83,Fully Paid,0
+3327,60 months,24.85,G,5 years,RENT,62314.28,credit_card,TX,26.95,3,5.48,Charged Off,1
+1197,36 months,23.54,E,1 year,MORTGAGE,70280.6,credit_card,FL,38.84,0,45.64,Fully Paid,0
+24509,60 months,15.8,G,2 years,OWN,89883.71,home_improvement,TX,7.44,0,23.76,Fully Paid,0
+16087,36 months,21.84,A,2 years,RENT,83430.92,debt_consolidation,TX,24.09,0,91.53,Fully Paid,0
+23671,60 months,15.42,A,3 years,OWN,80336.37,debt_consolidation,CA,17.26,0,21.59,Fully Paid,0
+26184,60 months,17.47,A,10+ years,OWN,68217.55,debt_consolidation,NY,18.14,1,32.18,Fully Paid,0
+28848,60 months,6.78,F,1 year,RENT,82401.22,car,IL,10.54,0,54.1,Fully Paid,0
+21666,36 months,20.11,E,3 years,MORTGAGE,72525.35,car,CA,33.09,1,30.02,Fully Paid,0
+16708,36 months,7.55,E,1 year,RENT,84156.11,other,IL,19.67,2,24.94,Fully Paid,0
+27370,60 months,21.52,E,3 years,OWN,65061.36,car,TX,21.96,0,61.91,Charged Off,1
+3811,60 months,20.64,C,2 years,OWN,71348.62,car,IL,12.54,0,13.45,Fully Paid,0
+7546,36 months,19.17,E,5 years,MORTGAGE,55200.84,car,NY,7.68,0,10.53,Fully Paid,0
+31206,36 months,5.72,C,3 years,RENT,74299.85,home_improvement,CA,3.89,0,40.36,Fully Paid,0
+12411,36 months,11.06,A,1 year,OWN,58779.98,car,NY,28.71,0,73.46,Fully Paid,0
+3911,60 months,10.26,A,1 year,OWN,52719.07,credit_card,NY,8.25,1,57.71,Charged Off,1
+2734,36 months,12.2,F,10+ years,OWN,80173.22,credit_card,CA,27.76,1,45.17,Fully Paid,0
+19227,36 months,6.75,G,2 years,MORTGAGE,79254.8,other,NY,15.92,0,58.75,Fully Paid,0
+9680,60 months,23.74,A,1 year,OWN,90657.47,home_improvement,FL,16.92,1,39.72,Fully Paid,0
+20360,36 months,16.08,G,< 1 year,OWN,66377.49,credit_card,FL,19.03,0,93.93,Fully Paid,0
+19343,36 months,11.11,G,5 years,RENT,83161.06,home_improvement,FL,15.02,1,10.22,Fully Paid,0
+6759,36 months,12.94,F,3 years,RENT,86015.95,home_improvement,IL,4.47,1,68.97,Fully Paid,0
+24078,60 months,13.94,B,10+ years,OWN,83895.48,other,NY,12.73,0,89.67,Fully Paid,0
+12111,60 months,17.01,B,5 years,OWN,58486.93,home_improvement,CA,26.72,2,81.37,Fully Paid,0
+2802,60 months,15.31,D,2 years,RENT,77987.27,car,CA,26.8,1,22.48,Charged Off,1
+9155,60 months,23.39,F,10+ years,MORTGAGE,82282.81,home_improvement,IL,11.81,0,33.11,Fully Paid,0
+9120,60 months,14.94,D,3 years,MORTGAGE,75143.57,other,CA,18.67,0,73.12,Charged Off,1
+22918,60 months,24.84,D,3 years,MORTGAGE,33270.45,other,FL,8.14,0,13.01,Fully Paid,0
+21445,60 months,22.03,B,< 1 year,MORTGAGE,78209.79,other,NY,8.81,0,82.13,Charged Off,1
+31306,36 months,9.17,F,2 years,MORTGAGE,119250.62,credit_card,CA,1.41,0,73.3,Fully Paid,0
+17646,36 months,23.61,B,10+ years,MORTGAGE,67799.21,car,CA,35.92,0,74.31,Fully Paid,0
+32065,60 months,7.33,D,10+ years,MORTGAGE,60438.46,credit_card,TX,8.82,1,14.52,Fully Paid,0
+26199,36 months,21.35,F,1 year,MORTGAGE,82466.97,debt_consolidation,TX,9.49,1,73.19,Fully Paid,0
+17371,36 months,12.61,D,< 1 year,RENT,81247.56,car,TX,11.54,0,69.58,Fully Paid,0
+12835,60 months,22.56,E,< 1 year,MORTGAGE,98854.7,home_improvement,NY,5.53,0,83.94,Fully Paid,0
+3049,36 months,22.36,G,10+ years,MORTGAGE,49842.64,other,FL,25.75,1,8.95,Fully Paid,0
+32616,36 months,21.12,F,10+ years,MORTGAGE,89627.61,debt_consolidation,FL,3.47,0,7.2,Fully Paid,0
+21932,36 months,20.8,F,5 years,OWN,86808.44,car,FL,5.8,0,40.44,Fully Paid,0
+30855,36 months,11.09,G,5 years,RENT,72157.07,credit_card,NY,25.97,1,19.13,Fully Paid,0
+8158,36 months,6.62,D,5 years,RENT,81773.75,other,NY,13.92,1,58.05,Fully Paid,0
+8400,60 months,13.06,E,< 1 year,RENT,95589.15,credit_card,TX,28.46,1,92.15,Fully Paid,0
+16151,60 months,8.47,C,1 year,MORTGAGE,92446.31,car,CA,22.52,1,42.19,Fully Paid,0
+2154,60 months,18.9,G,3 years,MORTGAGE,52139.61,car,IL,10.61,0,85.27,Fully Paid,0
+5499,36 months,11.92,B,5 years,OWN,91403.16,debt_consolidation,IL,26.21,1,5.02,Fully Paid,0
+7295,60 months,24.51,D,1 year,RENT,73706.23,home_improvement,CA,5.09,0,21.01,Charged Off,1
+13183,36 months,17.82,G,2 years,MORTGAGE,76457.48,credit_card,TX,21.69,0,7.89,Fully Paid,0
+30299,36 months,21.45,G,5 years,RENT,76463.94,debt_consolidation,CA,17.77,1,36.17,Fully Paid,0
+13874,36 months,7.65,F,3 years,OWN,71995.14,other,CA,11.08,1,91.28,Fully Paid,0
+33711,36 months,22.24,B,2 years,OWN,98834.15,home_improvement,IL,24.36,0,14.21,Fully Paid,0
+6539,60 months,23.46,B,2 years,OWN,73325.64,debt_consolidation,TX,34.92,1,62.61,Charged Off,1
+3557,60 months,14.74,B,3 years,RENT,52609.08,credit_card,NY,39.96,0,47.89,Charged Off,1
+17482,36 months,17.13,G,5 years,MORTGAGE,67129.4,car,IL,24.51,2,94.15,Fully Paid,0
+3200,60 months,20.3,C,< 1 year,MORTGAGE,78573.89,other,NY,16.49,1,16.64,Fully Paid,0
+3961,36 months,8.5,A,3 years,OWN,99584.3,credit_card,TX,9.4,1,25.14,Fully Paid,0
+22357,60 months,15.05,D,3 years,MORTGAGE,87061.89,home_improvement,CA,10.66,0,7.81,Fully Paid,0
+12969,60 months,12.97,A,3 years,OWN,57989.29,home_improvement,FL,19.44,2,46.22,Fully Paid,0
+3869,36 months,7.93,G,2 years,RENT,124703.8,car,FL,15.01,0,31.39,Fully Paid,0
+29643,60 months,12.35,A,1 year,OWN,80295.51,car,TX,36.6,0,87.64,Fully Paid,0
+25736,36 months,6.36,G,< 1 year,RENT,100507.81,other,FL,15.05,0,62.47,Fully Paid,0
+24328,60 months,5.52,A,5 years,OWN,71965.71,other,NY,15.25,0,63.34,Fully Paid,0
+26876,36 months,7.7,B,5 years,MORTGAGE,85667.18,car,FL,15.65,0,55.53,Fully Paid,0
+22295,36 months,24.26,E,1 year,MORTGAGE,91789.37,car,TX,33.55,1,13.73,Fully Paid,0
+4987,60 months,15.99,B,3 years,OWN,99363.89,home_improvement,TX,26.21,1,47.28,Charged Off,1
+23399,60 months,24.32,B,< 1 year,MORTGAGE,96147.37,car,NY,24.76,0,99.95,Fully Paid,0
+34986,36 months,13.65,F,5 years,MORTGAGE,92443.94,debt_consolidation,FL,13.7,0,84.35,Fully Paid,0
+21880,60 months,11.24,F,10+ years,MORTGAGE,68698.27,credit_card,FL,32.81,0,89.88,Charged Off,1
+5735,60 months,15.12,A,5 years,RENT,63565.08,car,CA,2.02,2,83.21,Charged Off,1
+5555,36 months,13.79,G,3 years,MORTGAGE,81652.15,other,IL,34.9,0,14.79,Fully Paid,0
+20830,36 months,7.11,B,10+ years,RENT,93662.56,debt_consolidation,TX,20.75,0,26.61,Fully Paid,0
+18429,60 months,17.82,A,1 year,OWN,70545.59,other,CA,16.23,2,5.3,Fully Paid,0
+7893,36 months,9.32,F,< 1 year,MORTGAGE,96303.44,debt_consolidation,TX,20.14,1,33.83,Fully Paid,0
+15373,36 months,17.39,E,1 year,MORTGAGE,104052.33,car,CA,26.86,0,15.32,Fully Paid,0
+4436,36 months,18.0,D,1 year,MORTGAGE,56673.58,credit_card,IL,1.0,0,49.92,Charged Off,1
+9754,60 months,8.04,A,< 1 year,OWN,58261.59,other,CA,34.93,2,69.33,Fully Paid,0
+11677,60 months,6.23,E,< 1 year,RENT,72192.5,debt_consolidation,TX,18.15,0,88.08,Fully Paid,0
+6895,36 months,20.62,D,5 years,RENT,81152.25,home_improvement,FL,14.05,0,76.18,Fully Paid,0
+20738,60 months,14.2,C,5 years,MORTGAGE,64508.66,car,TX,5.96,0,94.17,Fully Paid,0
+31746,36 months,6.16,A,< 1 year,OWN,102044.05,credit_card,NY,17.86,1,10.12,Fully Paid,0
+33352,60 months,24.9,A,10+ years,OWN,83481.34,car,NY,20.1,2,6.16,Fully Paid,0
+6600,36 months,6.16,C,2 years,OWN,75788.94,home_improvement,NY,16.44,0,67.83,Fully Paid,0
+30124,36 months,18.9,C,5 years,OWN,46281.81,credit_card,NY,27.31,0,32.49,Fully Paid,0
+28643,60 months,24.67,A,2 years,OWN,48683.68,home_improvement,IL,17.13,1,29.08,Fully Paid,0
+10007,36 months,9.78,C,10+ years,RENT,80620.19,car,FL,38.48,1,36.43,Fully Paid,0
+9208,60 months,7.84,B,< 1 year,RENT,32348.09,debt_consolidation,FL,24.17,0,30.63,Charged Off,1
+19589,60 months,7.43,D,10+ years,RENT,95252.75,car,TX,32.4,2,53.59,Fully Paid,0
+18453,36 months,11.07,D,5 years,MORTGAGE,71836.92,car,CA,4.82,0,46.81,Charged Off,1
+33635,36 months,7.02,D,1 year,OWN,139861.86,car,TX,16.19,2,53.68,Fully Paid,0
+34828,60 months,18.84,B,< 1 year,MORTGAGE,121158.33,other,TX,13.81,0,68.91,Fully Paid,0
+19711,36 months,6.25,G,3 years,OWN,71371.02,home_improvement,TX,22.99,0,41.78,Fully Paid,0
+4420,36 months,15.19,C,2 years,RENT,72873.26,home_improvement,TX,34.51,1,28.87,Fully Paid,0
+32216,36 months,24.93,E,10+ years,MORTGAGE,94911.63,home_improvement,FL,3.59,0,20.79,Charged Off,1
+1301,36 months,21.28,C,< 1 year,RENT,109063.45,other,CA,3.37,1,38.2,Charged Off,1
+1699,36 months,17.3,A,10+ years,OWN,42239.42,debt_consolidation,TX,34.09,0,75.47,Fully Paid,0
+1190,60 months,11.13,F,< 1 year,OWN,39272.49,car,FL,8.91,0,76.89,Fully Paid,0
+11492,60 months,17.48,D,5 years,OWN,62559.3,debt_consolidation,TX,26.92,1,68.36,Fully Paid,0
+7102,36 months,15.54,C,5 years,RENT,86654.75,other,NY,21.94,1,27.23,Charged Off,1
+20778,36 months,13.52,E,5 years,OWN,84937.47,home_improvement,TX,33.4,0,60.87,Fully Paid,0
+27641,36 months,7.61,A,10+ years,RENT,96395.43,car,TX,5.44,0,59.22,Fully Paid,0
+33745,60 months,22.73,B,3 years,MORTGAGE,51006.05,credit_card,IL,5.63,0,51.01,Fully Paid,0
+24093,36 months,14.0,G,5 years,OWN,28677.12,credit_card,NY,22.49,0,57.25,Fully Paid,0
+1569,60 months,8.89,B,< 1 year,OWN,92160.28,debt_consolidation,CA,37.88,2,51.72,Charged Off,1
+8455,60 months,12.36,E,5 years,OWN,58436.07,home_improvement,TX,16.89,0,58.72,Fully Paid,0
+5014,60 months,13.28,A,1 year,MORTGAGE,34630.24,credit_card,CA,13.41,0,72.97,Fully Paid,0
+12093,36 months,21.55,D,5 years,OWN,77901.27,debt_consolidation,NY,24.46,1,15.41,Fully Paid,0
+19070,60 months,19.67,C,10+ years,RENT,90863.51,other,TX,37.25,0,76.21,Fully Paid,0
+17538,36 months,20.39,A,3 years,RENT,72558.86,debt_consolidation,IL,33.56,0,17.91,Fully Paid,0
+11729,60 months,5.22,G,1 year,OWN,65843.03,debt_consolidation,FL,39.82,0,11.33,Fully Paid,0
+1784,36 months,13.32,B,10+ years,OWN,71812.76,debt_consolidation,IL,1.39,0,97.73,Charged Off,1
+28751,60 months,14.63,G,10+ years,MORTGAGE,67588.34,car,IL,4.96,0,95.91,Fully Paid,0
+13533,36 months,5.38,G,10+ years,MORTGAGE,48039.06,debt_consolidation,FL,24.57,0,10.74,Fully Paid,0
+6801,60 months,10.2,E,< 1 year,MORTGAGE,60706.39,debt_consolidation,FL,32.91,1,47.11,Fully Paid,0
+20190,36 months,20.21,E,10+ years,OWN,85425.6,car,FL,11.77,0,22.69,Fully Paid,0
+30592,36 months,7.74,C,< 1 year,MORTGAGE,81433.57,car,TX,9.95,0,51.11,Charged Off,1
+11647,36 months,15.71,E,10+ years,MORTGAGE,78361.2,other,CA,31.59,0,83.87,Fully Paid,0
+9716,36 months,9.3,E,2 years,RENT,55097.03,home_improvement,CA,2.73,0,95.31,Fully Paid,0
+24355,60 months,5.24,A,1 year,MORTGAGE,71369.94,credit_card,FL,15.09,0,65.25,Fully Paid,0
+23009,60 months,9.82,D,2 years,RENT,31458.7,credit_card,IL,20.48,0,38.62,Fully Paid,0
+25376,36 months,24.52,C,10+ years,RENT,78569.53,debt_consolidation,NY,22.63,0,62.32,Fully Paid,0
+5780,60 months,21.03,A,1 year,MORTGAGE,103577.15,other,FL,29.28,0,34.64,Charged Off,1
+3368,36 months,24.19,D,1 year,RENT,45517.36,debt_consolidation,IL,14.52,0,91.43,Fully Paid,0
+13039,36 months,14.76,G,3 years,OWN,63281.45,credit_card,IL,24.7,1,87.69,Fully Paid,0
+7655,60 months,7.19,A,2 years,OWN,81582.14,car,TX,23.62,0,58.03,Fully Paid,0
+5495,36 months,15.96,F,3 years,MORTGAGE,100056.85,home_improvement,TX,22.13,0,35.86,Fully Paid,0
+11893,36 months,14.09,A,1 year,OWN,66035.51,other,CA,25.8,0,32.87,Fully Paid,0
+26547,60 months,21.89,E,< 1 year,RENT,61154.99,car,CA,10.75,0,8.17,Charged Off,1
+23386,36 months,6.96,D,1 year,OWN,35621.54,home_improvement,NY,3.84,0,82.5,Fully Paid,0
+14403,36 months,14.76,C,3 years,MORTGAGE,77068.76,other,NY,5.21,1,47.79,Fully Paid,0
+33097,36 months,8.0,C,2 years,MORTGAGE,115841.52,other,NY,9.37,0,35.89,Fully Paid,0
+14121,36 months,11.49,D,10+ years,RENT,80547.17,credit_card,NY,20.26,2,49.76,Charged Off,1
+11966,60 months,19.75,E,10+ years,MORTGAGE,74554.42,car,IL,33.7,0,82.78,Fully Paid,0
+34621,60 months,14.52,B,2 years,OWN,81441.65,other,IL,28.2,0,16.84,Charged Off,1
+29312,60 months,12.52,A,10+ years,MORTGAGE,74778.16,other,CA,31.67,0,86.48,Fully Paid,0
+23677,36 months,12.89,E,10+ years,RENT,58739.71,home_improvement,TX,14.36,0,90.26,Charged Off,1
+32289,36 months,14.19,F,3 years,MORTGAGE,91465.6,credit_card,TX,16.48,0,94.94,Fully Paid,0
+32024,60 months,20.7,G,2 years,OWN,79515.23,debt_consolidation,FL,16.05,1,42.76,Fully Paid,0
+5777,36 months,22.84,D,5 years,RENT,75352.27,credit_card,IL,8.08,0,25.63,Fully Paid,0
+30749,36 months,24.11,A,< 1 year,OWN,55492.68,debt_consolidation,NY,2.92,0,40.5,Fully Paid,0
+16338,36 months,20.74,C,< 1 year,RENT,101070.16,car,NY,23.84,1,36.63,Fully Paid,0
+3491,36 months,11.31,G,10+ years,MORTGAGE,88294.05,car,FL,39.57,0,21.73,Fully Paid,0
+28236,60 months,18.76,B,< 1 year,RENT,63941.58,other,TX,7.09,0,62.69,Fully Paid,0
+15599,60 months,13.75,F,2 years,RENT,95036.5,car,NY,2.34,0,50.28,Fully Paid,0
+20508,60 months,10.09,C,2 years,MORTGAGE,65048.58,other,TX,31.29,0,87.24,Charged Off,1
+4051,36 months,21.82,D,1 year,OWN,59359.93,credit_card,FL,10.48,0,8.05,Fully Paid,0
+22606,60 months,5.77,A,1 year,MORTGAGE,59805.94,car,TX,33.27,0,66.17,Charged Off,1
+22699,60 months,23.04,D,< 1 year,RENT,39578.63,credit_card,TX,28.31,0,77.48,Fully Paid,0
+1876,36 months,14.23,G,5 years,MORTGAGE,84430.85,credit_card,TX,37.85,0,77.15,Fully Paid,0
+33093,36 months,17.74,A,1 year,RENT,38377.1,car,NY,16.65,1,89.18,Fully Paid,0
+5142,60 months,18.19,E,1 year,MORTGAGE,50431.12,credit_card,CA,26.65,0,74.26,Fully Paid,0
+16202,60 months,22.9,B,2 years,MORTGAGE,33488.24,car,IL,18.86,0,93.14,Charged Off,1
+8079,60 months,17.73,E,5 years,OWN,73278.61,car,TX,25.41,0,36.6,Fully Paid,0
+8987,60 months,17.28,E,10+ years,RENT,71993.59,car,TX,18.26,1,52.8,Charged Off,1
+29940,36 months,6.33,D,< 1 year,OWN,68466.08,debt_consolidation,TX,7.95,0,6.34,Charged Off,1
+18019,60 months,15.37,G,1 year,RENT,54148.45,credit_card,CA,20.56,0,5.66,Fully Paid,0
+19077,60 months,8.0,B,5 years,MORTGAGE,51555.32,home_improvement,FL,21.38,2,27.81,Charged Off,1
+27258,36 months,19.75,A,5 years,RENT,84287.4,car,NY,32.52,0,14.58,Fully Paid,0
+22136,60 months,15.24,A,< 1 year,OWN,63988.96,credit_card,CA,29.55,0,29.72,Charged Off,1
+9311,36 months,18.6,F,5 years,OWN,81327.17,other,TX,26.72,0,21.82,Fully Paid,0
+18214,36 months,5.83,C,5 years,OWN,57295.03,car,CA,4.98,1,7.71,Fully Paid,0
+15098,36 months,6.7,F,5 years,RENT,78621.25,car,CA,28.96,0,91.38,Charged Off,1
+29251,60 months,19.33,F,1 year,OWN,101065.56,home_improvement,CA,20.26,1,5.78,Fully Paid,0
+26945,60 months,6.44,A,< 1 year,OWN,86723.32,debt_consolidation,FL,35.82,0,74.93,Fully Paid,0
+26316,36 months,6.43,D,5 years,OWN,66751.72,debt_consolidation,IL,36.83,1,19.45,Fully Paid,0
+33217,60 months,5.24,E,5 years,MORTGAGE,80143.98,car,NY,2.68,2,91.66,Fully Paid,0
+9308,60 months,24.13,G,1 year,MORTGAGE,70186.7,credit_card,FL,32.92,2,89.82,Fully Paid,0
+6949,36 months,19.75,E,< 1 year,RENT,75157.6,other,FL,1.99,0,67.12,Charged Off,1
+2150,36 months,12.07,E,2 years,RENT,68487.78,other,IL,15.0,1,68.86,Fully Paid,0
+24944,60 months,10.93,B,1 year,OWN,71713.3,credit_card,FL,21.92,0,5.51,Fully Paid,0
+10204,36 months,11.99,A,< 1 year,MORTGAGE,79241.87,car,CA,6.35,2,98.56,Fully Paid,0
+2081,60 months,20.49,G,5 years,OWN,55132.83,other,CA,29.98,0,88.39,Fully Paid,0
+30305,60 months,18.23,D,< 1 year,OWN,54682.42,debt_consolidation,TX,0.83,0,90.04,Fully Paid,0
+17896,60 months,8.7,B,< 1 year,MORTGAGE,47229.15,credit_card,FL,7.16,0,67.63,Fully Paid,0
+8805,60 months,8.48,C,10+ years,MORTGAGE,42994.58,home_improvement,TX,23.44,0,37.75,Charged Off,1
+6237,36 months,6.97,D,< 1 year,MORTGAGE,50654.35,car,NY,28.72,1,89.9,Fully Paid,0
+21056,36 months,18.21,F,2 years,RENT,78189.25,credit_card,CA,36.71,0,32.69,Fully Paid,0
+4343,36 months,20.29,D,< 1 year,RENT,57144.25,other,NY,28.37,0,58.46,Charged Off,1
+14500,36 months,10.3,D,2 years,OWN,85272.29,car,IL,27.04,1,14.47,Fully Paid,0
+30375,60 months,5.42,E,5 years,RENT,75694.27,debt_consolidation,CA,16.08,0,92.59,Fully Paid,0
+10662,60 months,6.64,D,2 years,MORTGAGE,35629.92,car,NY,0.55,0,18.37,Fully Paid,0
+17964,36 months,24.36,F,5 years,MORTGAGE,88099.51,car,IL,5.25,0,26.37,Charged Off,1
+9130,60 months,10.91,F,5 years,RENT,91215.97,debt_consolidation,NY,21.61,0,58.02,Fully Paid,0
+20531,60 months,20.38,A,2 years,OWN,55122.75,debt_consolidation,IL,27.17,0,77.59,Fully Paid,0
+2679,60 months,17.49,D,1 year,OWN,83403.83,car,IL,16.99,0,63.84,Fully Paid,0
+4506,36 months,12.64,E,3 years,RENT,57870.04,debt_consolidation,CA,29.36,0,27.05,Fully Paid,0
+14284,36 months,9.11,D,< 1 year,OWN,76953.41,credit_card,TX,21.11,0,5.09,Fully Paid,0
+8253,36 months,7.43,C,10+ years,OWN,49710.03,debt_consolidation,IL,3.43,0,76.93,Fully Paid,0
+20128,60 months,17.3,C,3 years,OWN,39137.87,debt_consolidation,IL,8.08,0,98.59,Fully Paid,0
+28932,36 months,20.49,E,< 1 year,MORTGAGE,67343.66,car,CA,33.68,0,81.94,Fully Paid,0
+10435,36 months,17.88,A,< 1 year,MORTGAGE,72525.42,credit_card,TX,29.13,0,48.72,Fully Paid,0
+14296,36 months,15.61,A,5 years,RENT,67046.41,home_improvement,FL,35.84,0,90.86,Fully Paid,0
+31445,36 months,5.84,F,< 1 year,MORTGAGE,51319.39,home_improvement,FL,5.14,1,43.94,Charged Off,1
+14245,36 months,24.37,F,10+ years,OWN,67002.02,other,TX,39.61,0,54.87,Charged Off,1
+30124,36 months,20.97,B,< 1 year,MORTGAGE,80385.9,debt_consolidation,NY,8.77,0,50.33,Fully Paid,0
+30899,60 months,10.86,E,2 years,RENT,74102.14,debt_consolidation,CA,0.97,2,47.52,Fully Paid,0
+30222,60 months,24.6,D,3 years,MORTGAGE,78650.02,credit_card,TX,39.9,0,78.64,Charged Off,1
+27211,36 months,17.04,G,2 years,OWN,61597.7,home_improvement,FL,11.6,0,55.04,Fully Paid,0
+27646,36 months,16.65,E,10+ years,OWN,98434.36,other,IL,26.89,0,35.09,Fully Paid,0
+24049,60 months,19.96,B,< 1 year,RENT,51476.53,credit_card,FL,7.48,0,29.53,Fully Paid,0
+15069,60 months,21.24,F,10+ years,MORTGAGE,84751.21,debt_consolidation,IL,23.42,1,8.59,Fully Paid,0
+33580,36 months,18.13,E,5 years,MORTGAGE,98637.82,home_improvement,CA,36.21,1,60.4,Charged Off,1
+32843,36 months,7.56,E,2 years,MORTGAGE,84618.16,other,IL,13.15,2,26.85,Charged Off,1
+3849,36 months,11.77,F,2 years,OWN,70949.52,car,TX,26.98,0,19.07,Fully Paid,0
+24289,36 months,23.56,B,1 year,RENT,64434.06,home_improvement,IL,7.92,0,67.11,Fully Paid,0
+10823,60 months,9.49,F,< 1 year,MORTGAGE,95721.75,other,NY,25.18,0,69.71,Fully Paid,0
+10540,36 months,12.44,A,5 years,OWN,46540.5,credit_card,TX,13.79,0,76.45,Fully Paid,0
+17364,36 months,13.64,D,2 years,OWN,55597.51,car,CA,8.84,0,52.84,Fully Paid,0
+5611,36 months,13.79,F,2 years,OWN,67048.84,other,TX,12.87,0,89.94,Fully Paid,0
+28663,36 months,17.26,B,5 years,MORTGAGE,99753.08,other,NY,7.56,1,93.95,Fully Paid,0
+31977,60 months,23.86,C,10+ years,MORTGAGE,82595.35,debt_consolidation,CA,36.13,1,81.7,Charged Off,1
+30168,60 months,9.81,A,10+ years,MORTGAGE,55639.08,home_improvement,FL,16.19,1,65.38,Fully Paid,0
+26471,60 months,7.43,C,< 1 year,MORTGAGE,68793.85,debt_consolidation,NY,10.19,0,33.85,Fully Paid,0
+23687,36 months,8.95,G,1 year,MORTGAGE,62713.54,car,CA,18.21,1,98.38,Fully Paid,0
+1851,36 months,22.74,F,2 years,MORTGAGE,60804.22,other,IL,13.16,1,31.04,Fully Paid,0
+19071,60 months,17.92,A,1 year,MORTGAGE,94577.79,debt_consolidation,TX,29.9,0,24.25,Fully Paid,0
+7833,36 months,10.72,D,10+ years,MORTGAGE,47565.14,home_improvement,CA,38.86,0,47.0,Fully Paid,0
+12938,36 months,21.32,F,10+ years,MORTGAGE,107175.62,car,TX,17.8,1,10.4,Fully Paid,0
+27144,60 months,22.23,D,3 years,OWN,91564.59,credit_card,IL,34.51,1,97.96,Charged Off,1
+5000,60 months,21.93,E,< 1 year,MORTGAGE,96817.23,debt_consolidation,CA,22.85,0,60.9,Charged Off,1
+6052,60 months,23.38,C,3 years,RENT,65741.21,car,FL,6.71,0,57.91,Fully Paid,0
+29074,60 months,10.04,A,3 years,OWN,72001.19,credit_card,NY,27.78,1,67.3,Fully Paid,0
+33320,36 months,20.1,D,3 years,MORTGAGE,46336.96,debt_consolidation,CA,20.78,0,52.22,Fully Paid,0
+4913,36 months,14.21,B,< 1 year,RENT,64506.75,car,IL,26.2,0,8.05,Fully Paid,0
+18450,60 months,21.84,D,< 1 year,MORTGAGE,84873.1,car,CA,35.64,0,63.17,Fully Paid,0
+25107,36 months,19.57,B,5 years,RENT,100921.26,debt_consolidation,TX,17.9,0,73.04,Charged Off,1
+21764,60 months,20.53,F,1 year,RENT,52856.86,car,CA,36.1,0,44.59,Fully Paid,0
+21491,60 months,18.12,A,1 year,RENT,67689.88,other,FL,30.15,1,76.94,Fully Paid,0
+4373,36 months,8.55,D,5 years,RENT,71974.02,debt_consolidation,CA,19.8,0,26.57,Fully Paid,0
+13161,60 months,15.9,G,5 years,OWN,47084.22,car,NY,24.33,2,26.02,Charged Off,1
+32996,36 months,24.69,D,10+ years,OWN,86826.98,credit_card,CA,13.36,0,20.33,Fully Paid,0
+28122,36 months,23.75,G,3 years,RENT,60520.19,credit_card,TX,39.35,1,40.34,Fully Paid,0
+28350,36 months,5.86,A,5 years,MORTGAGE,71092.19,other,CA,26.86,0,85.47,Fully Paid,0
+28472,36 months,8.3,D,2 years,RENT,65961.01,debt_consolidation,FL,2.23,0,83.65,Fully Paid,0
+29761,60 months,7.63,B,1 year,OWN,59213.23,car,IL,13.4,0,41.37,Fully Paid,0
+26351,36 months,19.52,D,5 years,MORTGAGE,74859.1,car,CA,25.12,1,60.97,Fully Paid,0
+24132,60 months,21.36,C,2 years,OWN,70687.81,credit_card,CA,2.73,1,73.48,Charged Off,1
+16305,60 months,9.27,F,2 years,OWN,67562.84,other,NY,1.44,0,27.91,Fully Paid,0
+10817,60 months,15.12,E,2 years,MORTGAGE,60430.77,credit_card,FL,18.28,0,20.97,Charged Off,1
+12261,60 months,21.81,B,10+ years,RENT,81390.49,credit_card,IL,13.64,0,97.35,Fully Paid,0
+1417,36 months,19.66,C,10+ years,RENT,108072.35,other,TX,17.81,0,63.67,Charged Off,1
+21358,36 months,15.84,G,2 years,RENT,77797.74,debt_consolidation,CA,10.88,0,98.23,Fully Paid,0
+4267,60 months,16.81,F,10+ years,RENT,94922.36,car,IL,7.01,1,37.09,Fully Paid,0
+18209,60 months,15.17,A,3 years,MORTGAGE,47195.56,debt_consolidation,TX,27.72,0,71.79,Fully Paid,0
+25052,36 months,10.95,B,2 years,MORTGAGE,78155.23,home_improvement,FL,20.83,1,26.15,Fully Paid,0
+27092,60 months,16.3,E,3 years,MORTGAGE,53052.63,home_improvement,FL,8.41,1,29.81,Fully Paid,0
+12338,36 months,18.78,F,3 years,OWN,45461.5,home_improvement,IL,13.12,0,53.63,Fully Paid,0
+1412,60 months,22.47,G,2 years,MORTGAGE,60212.57,other,TX,23.88,0,35.36,Fully Paid,0
+8543,36 months,17.73,E,1 year,RENT,98837.99,credit_card,FL,3.35,0,20.92,Fully Paid,0
+34496,60 months,20.22,A,2 years,OWN,94000.32,debt_consolidation,IL,6.32,0,29.97,Fully Paid,0
+24548,60 months,8.2,A,2 years,RENT,79860.09,car,FL,3.39,1,8.4,Fully Paid,0
+28384,36 months,14.23,G,10+ years,RENT,44345.99,home_improvement,FL,32.59,1,71.92,Fully Paid,0
+19888,60 months,5.19,B,2 years,MORTGAGE,71074.39,debt_consolidation,FL,30.22,0,51.75,Fully Paid,0
+18506,60 months,9.93,G,1 year,MORTGAGE,81034.0,home_improvement,NY,30.26,0,13.95,Fully Paid,0
+21463,36 months,19.53,D,10+ years,RENT,78510.72,home_improvement,TX,28.79,1,21.31,Charged Off,1
+18955,60 months,24.84,A,< 1 year,RENT,38124.13,car,IL,26.94,0,14.74,Charged Off,1
+6104,36 months,6.98,F,< 1 year,OWN,57193.64,other,IL,19.34,1,63.2,Fully Paid,0
+24190,36 months,13.03,D,3 years,MORTGAGE,73718.44,credit_card,TX,25.87,1,13.95,Fully Paid,0
+8357,60 months,21.0,C,3 years,OWN,85725.82,other,TX,2.02,2,76.66,Fully Paid,0
+33479,60 months,9.08,E,1 year,OWN,31077.44,debt_consolidation,TX,25.05,0,6.95,Fully Paid,0
+21150,60 months,16.1,D,5 years,OWN,71757.52,other,TX,31.23,0,28.69,Fully Paid,0
+6644,60 months,19.66,E,< 1 year,RENT,77860.98,debt_consolidation,CA,20.26,1,89.61,Fully Paid,0
+3914,60 months,17.32,G,3 years,OWN,91992.24,debt_consolidation,IL,14.62,0,73.26,Fully Paid,0
+22352,60 months,8.76,D,< 1 year,OWN,88857.15,credit_card,CA,11.46,1,11.93,Fully Paid,0
+15397,60 months,12.11,G,1 year,RENT,86651.43,car,FL,25.89,0,83.01,Fully Paid,0
+1728,36 months,20.68,C,1 year,MORTGAGE,59001.19,credit_card,FL,27.87,0,51.84,Charged Off,1
+1698,60 months,16.08,A,5 years,MORTGAGE,36839.96,other,IL,34.9,0,85.44,Fully Paid,0
+14923,36 months,5.1,C,5 years,OWN,67138.94,debt_consolidation,FL,14.02,0,62.07,Fully Paid,0
+17779,60 months,20.22,A,10+ years,RENT,95032.64,home_improvement,TX,30.91,1,69.77,Charged Off,1
+8400,60 months,5.71,G,1 year,MORTGAGE,102869.09,home_improvement,CA,22.67,2,99.38,Fully Paid,0
+25466,36 months,19.91,A,3 years,OWN,89210.98,debt_consolidation,TX,35.37,0,27.07,Fully Paid,0
+5360,60 months,9.05,E,< 1 year,OWN,83586.82,credit_card,FL,21.35,1,64.27,Fully Paid,0
+18101,60 months,24.16,F,2 years,RENT,82592.79,car,CA,20.95,0,48.73,Fully Paid,0
+33307,36 months,12.36,C,5 years,OWN,63877.63,credit_card,TX,23.33,1,8.75,Fully Paid,0
+6486,60 months,11.54,D,2 years,MORTGAGE,72398.79,debt_consolidation,IL,30.1,1,6.37,Fully Paid,0
+9335,60 months,7.98,C,3 years,RENT,108381.39,debt_consolidation,TX,38.61,1,16.33,Fully Paid,0
+22364,60 months,11.11,E,5 years,MORTGAGE,56148.84,car,FL,3.41,1,66.66,Charged Off,1
+24576,36 months,22.53,A,2 years,MORTGAGE,107295.58,other,CA,2.61,0,58.88,Fully Paid,0
+32667,60 months,24.93,E,3 years,MORTGAGE,68559.44,other,IL,37.53,0,57.58,Charged Off,1
+12130,60 months,12.37,B,< 1 year,OWN,101508.64,car,CA,21.43,0,8.03,Fully Paid,0
+22972,60 months,13.97,B,3 years,OWN,46863.7,other,IL,24.79,0,49.58,Charged Off,1
+2167,60 months,19.44,D,10+ years,MORTGAGE,86718.08,home_improvement,CA,19.56,0,92.84,Fully Paid,0
+28192,36 months,22.72,E,5 years,MORTGAGE,60264.6,other,FL,4.2,0,42.77,Fully Paid,0
+2062,36 months,16.86,G,1 year,RENT,46694.66,other,IL,30.84,0,64.37,Fully Paid,0
+19540,60 months,12.83,D,< 1 year,RENT,79370.68,other,NY,30.02,0,79.08,Fully Paid,0
+25244,60 months,13.25,G,2 years,OWN,95189.44,home_improvement,CA,12.81,1,79.47,Fully Paid,0
+22545,36 months,18.91,D,5 years,OWN,58101.17,other,CA,12.6,1,54.33,Fully Paid,0
+22689,36 months,5.06,B,1 year,RENT,45019.68,home_improvement,TX,33.59,0,86.51,Charged Off,1
+12174,60 months,17.39,D,3 years,MORTGAGE,73163.1,car,IL,3.36,0,42.18,Charged Off,1
+23925,36 months,12.11,B,1 year,OWN,73251.29,credit_card,NY,35.3,0,89.43,Fully Paid,0
+10348,60 months,20.88,A,5 years,MORTGAGE,85966.39,car,FL,10.64,2,27.82,Fully Paid,0
+24714,36 months,6.86,G,5 years,RENT,93991.89,credit_card,TX,23.92,0,31.62,Fully Paid,0
+9924,36 months,16.76,E,10+ years,OWN,73811.7,car,NY,37.47,0,10.05,Fully Paid,0
+25394,36 months,14.62,D,10+ years,OWN,112110.07,credit_card,IL,27.29,0,80.58,Charged Off,1
+7801,36 months,17.85,B,1 year,RENT,79484.69,credit_card,NY,16.87,0,44.62,Fully Paid,0
+7731,60 months,6.3,C,3 years,OWN,68071.47,debt_consolidation,CA,27.74,0,26.77,Charged Off,1
+24625,36 months,16.6,G,1 year,RENT,42768.65,credit_card,CA,14.09,1,27.02,Fully Paid,0
+18337,36 months,16.23,D,5 years,OWN,69746.81,credit_card,TX,11.45,2,90.63,Fully Paid,0
+8056,60 months,16.21,F,5 years,RENT,68272.26,debt_consolidation,IL,39.87,1,84.22,Fully Paid,0
+12516,36 months,17.07,A,2 years,OWN,94206.1,other,IL,30.16,1,57.59,Fully Paid,0
+2542,36 months,18.53,A,10+ years,MORTGAGE,84249.67,other,NY,25.97,0,63.53,Fully Paid,0
+22677,60 months,21.1,C,2 years,MORTGAGE,51412.62,debt_consolidation,TX,14.53,2,50.06,Charged Off,1
+28569,36 months,10.4,B,< 1 year,MORTGAGE,78445.09,home_improvement,IL,2.44,1,42.21,Fully Paid,0
+24322,60 months,21.5,D,5 years,OWN,88430.62,credit_card,CA,1.73,0,91.97,Fully Paid,0
+20065,60 months,14.97,G,2 years,OWN,105560.63,credit_card,NY,22.39,0,16.93,Fully Paid,0
+18924,60 months,6.54,B,1 year,MORTGAGE,92750.08,debt_consolidation,FL,30.6,0,44.75,Fully Paid,0
+23556,60 months,6.17,A,10+ years,MORTGAGE,90216.93,debt_consolidation,CA,21.73,1,37.73,Fully Paid,0
+27962,36 months,11.68,B,10+ years,RENT,76201.72,home_improvement,TX,33.71,0,52.32,Fully Paid,0
+29295,60 months,20.7,A,3 years,RENT,82766.24,other,IL,1.82,0,48.48,Fully Paid,0
+14807,36 months,19.15,B,1 year,RENT,99990.1,car,CA,14.99,0,54.29,Charged Off,1
+27432,36 months,20.77,C,3 years,MORTGAGE,48344.45,other,FL,9.86,1,18.29,Fully Paid,0
+18749,36 months,15.35,E,2 years,MORTGAGE,68011.21,credit_card,FL,18.17,0,53.75,Charged Off,1
+27256,36 months,13.8,C,< 1 year,MORTGAGE,59548.63,debt_consolidation,TX,3.36,0,28.03,Fully Paid,0
+2324,36 months,7.95,C,1 year,RENT,82583.06,home_improvement,CA,38.19,0,22.51,Charged Off,1
+26731,36 months,11.56,E,1 year,OWN,99604.44,other,NY,9.32,0,11.16,Fully Paid,0
+24803,36 months,13.68,E,1 year,MORTGAGE,63060.51,home_improvement,CA,36.93,0,77.45,Fully Paid,0
+20870,36 months,6.77,D,3 years,OWN,27193.91,other,FL,17.32,1,45.61,Charged Off,1
+7588,36 months,9.41,G,2 years,OWN,66755.59,credit_card,TX,39.43,0,64.53,Fully Paid,0
+27790,36 months,16.96,G,1 year,OWN,93269.47,car,TX,22.39,0,74.12,Fully Paid,0
+26289,60 months,19.71,D,1 year,RENT,85752.6,home_improvement,NY,37.27,1,69.54,Fully Paid,0
+29178,60 months,24.97,C,10+ years,OWN,83563.72,home_improvement,TX,0.71,1,49.7,Charged Off,1
+29710,60 months,23.66,C,< 1 year,MORTGAGE,69400.13,car,TX,30.06,1,41.85,Fully Paid,0
+16485,36 months,17.85,A,10+ years,RENT,49419.39,home_improvement,TX,36.17,0,40.72,Fully Paid,0
+21652,60 months,13.42,A,10+ years,MORTGAGE,85305.89,home_improvement,TX,6.02,0,65.8,Fully Paid,0
+5748,60 months,17.72,G,< 1 year,MORTGAGE,58314.36,other,TX,4.3,0,52.01,Charged Off,1
+22233,60 months,20.71,D,2 years,RENT,118681.93,other,FL,17.27,2,85.67,Fully Paid,0
+10435,36 months,7.37,F,10+ years,MORTGAGE,86410.14,car,CA,37.38,3,88.1,Fully Paid,0
+4709,36 months,13.2,F,2 years,MORTGAGE,63387.03,credit_card,IL,21.92,0,21.2,Fully Paid,0
+31355,36 months,21.8,D,10+ years,RENT,62772.3,home_improvement,TX,21.33,0,17.94,Fully Paid,0
+14116,36 months,12.68,A,5 years,MORTGAGE,73141.12,credit_card,IL,6.07,1,64.89,Fully Paid,0
+26470,60 months,16.44,G,< 1 year,OWN,70209.96,car,IL,0.53,0,33.62,Fully Paid,0
+15683,60 months,16.76,G,10+ years,MORTGAGE,97336.68,car,FL,32.5,0,6.76,Fully Paid,0
+1504,60 months,8.69,A,5 years,OWN,78728.32,other,TX,3.96,0,89.42,Fully Paid,0
+34982,60 months,12.24,F,3 years,MORTGAGE,60367.37,home_improvement,IL,25.54,1,26.56,Fully Paid,0
+29016,36 months,11.69,B,5 years,RENT,112808.81,debt_consolidation,TX,36.63,1,93.28,Fully Paid,0
+24960,36 months,5.52,B,1 year,RENT,75986.17,car,NY,8.74,0,73.16,Charged Off,1
+34591,36 months,5.48,A,10+ years,MORTGAGE,90376.79,home_improvement,NY,26.78,0,77.45,Fully Paid,0
+18312,60 months,21.63,B,5 years,RENT,62835.47,credit_card,NY,3.61,0,24.14,Fully Paid,0
+3105,36 months,10.46,E,2 years,MORTGAGE,82262.31,other,IL,24.35,0,27.25,Charged Off,1
+23700,36 months,15.36,D,3 years,RENT,81222.2,credit_card,NY,6.98,0,54.52,Fully Paid,0
+21559,60 months,10.97,D,10+ years,OWN,37207.01,car,FL,29.57,1,21.35,Fully Paid,0
+28509,60 months,23.81,A,1 year,MORTGAGE,115305.5,car,FL,12.4,1,34.02,Fully Paid,0
+28860,36 months,10.19,C,5 years,OWN,100812.89,credit_card,IL,18.8,0,35.54,Fully Paid,0
+12003,36 months,13.59,F,3 years,OWN,67056.09,car,TX,24.18,0,20.16,Charged Off,1
+22732,36 months,22.45,A,10+ years,MORTGAGE,52954.61,home_improvement,CA,7.27,0,24.49,Charged Off,1
+26826,36 months,21.84,B,3 years,OWN,81951.23,car,TX,29.79,0,79.91,Fully Paid,0
+31354,36 months,8.72,F,1 year,MORTGAGE,76733.95,other,TX,12.45,0,20.88,Fully Paid,0
+14843,36 months,21.05,C,5 years,OWN,82113.38,home_improvement,TX,26.66,0,7.7,Fully Paid,0
+7190,60 months,14.16,B,3 years,MORTGAGE,78831.55,debt_consolidation,TX,6.75,0,64.79,Fully Paid,0
+18640,60 months,14.66,G,3 years,MORTGAGE,85124.82,car,CA,27.68,0,97.72,Fully Paid,0
+4330,60 months,7.67,E,< 1 year,RENT,103946.11,car,NY,5.56,1,36.47,Fully Paid,0
+20087,36 months,6.61,B,3 years,MORTGAGE,86362.06,other,TX,17.3,0,16.27,Fully Paid,0
+25504,60 months,19.56,E,< 1 year,MORTGAGE,54006.89,other,FL,10.26,1,59.19,Fully Paid,0
+8114,36 months,14.93,F,5 years,OWN,102251.26,credit_card,IL,30.06,1,91.1,Charged Off,1
+14323,36 months,13.74,E,10+ years,MORTGAGE,107812.29,credit_card,IL,10.85,0,79.49,Fully Paid,0
+11975,60 months,19.59,F,10+ years,RENT,138041.13,credit_card,FL,35.33,1,64.14,Fully Paid,0
+12023,36 months,20.31,F,5 years,OWN,52530.12,other,TX,35.73,2,34.93,Fully Paid,0
+22447,36 months,8.18,F,5 years,OWN,79857.64,credit_card,CA,8.26,0,56.48,Fully Paid,0
+25933,60 months,17.2,F,2 years,RENT,33358.03,credit_card,NY,24.75,0,13.67,Fully Paid,0
+24959,60 months,7.71,F,5 years,OWN,86062.98,debt_consolidation,IL,3.96,0,69.5,Fully Paid,0
+1667,60 months,20.03,B,3 years,OWN,64035.99,credit_card,NY,15.97,0,73.88,Fully Paid,0
+30703,36 months,18.14,F,10+ years,OWN,113468.92,car,CA,28.68,0,96.68,Fully Paid,0
+10337,60 months,24.13,B,1 year,OWN,59507.7,other,IL,26.55,0,29.74,Charged Off,1
+20129,60 months,6.38,F,10+ years,RENT,41216.34,home_improvement,NY,25.18,0,6.75,Fully Paid,0
+32921,36 months,6.14,E,< 1 year,RENT,65574.73,debt_consolidation,CA,11.66,1,56.83,Fully Paid,0
+34307,60 months,10.64,G,10+ years,OWN,35490.24,other,NY,15.43,2,72.15,Fully Paid,0
+28355,60 months,10.23,F,2 years,OWN,90021.99,other,TX,4.57,1,80.09,Charged Off,1
+5835,60 months,9.94,C,5 years,RENT,33698.34,car,CA,28.9,1,23.41,Fully Paid,0
+21159,36 months,23.13,F,5 years,RENT,75569.15,credit_card,NY,20.4,0,29.87,Fully Paid,0
+14216,36 months,9.99,F,10+ years,RENT,33443.76,car,TX,28.5,0,53.7,Fully Paid,0
+32471,36 months,10.44,E,1 year,OWN,68594.04,credit_card,TX,10.33,0,36.41,Fully Paid,0
+18308,36 months,20.19,D,1 year,OWN,107867.56,credit_card,CA,13.32,0,86.75,Fully Paid,0
+28532,60 months,13.99,E,2 years,MORTGAGE,82212.96,other,FL,13.7,0,50.01,Fully Paid,0
+6713,36 months,20.53,C,< 1 year,RENT,57730.13,credit_card,IL,1.52,0,80.96,Fully Paid,0
+5804,36 months,6.31,D,10+ years,OWN,74375.93,debt_consolidation,CA,13.97,0,60.16,Fully Paid,0
+11136,60 months,14.75,A,5 years,RENT,75360.34,debt_consolidation,TX,32.23,0,78.44,Fully Paid,0
+1009,60 months,5.67,A,10+ years,OWN,84452.61,debt_consolidation,TX,35.94,0,36.6,Charged Off,1
+20255,60 months,6.25,C,2 years,RENT,47662.83,other,CA,20.97,0,83.98,Fully Paid,0
+24793,36 months,23.13,E,3 years,OWN,86851.35,car,FL,18.49,0,31.08,Fully Paid,0
+30548,36 months,7.78,B,3 years,MORTGAGE,20912.17,home_improvement,IL,1.72,1,56.88,Fully Paid,0
+2015,36 months,15.65,C,2 years,MORTGAGE,62402.31,credit_card,NY,35.23,1,25.33,Charged Off,1
+28712,60 months,13.22,G,5 years,RENT,65234.52,home_improvement,CA,1.01,1,50.18,Fully Paid,0
+9415,60 months,11.95,D,2 years,OWN,87666.54,car,IL,37.82,0,35.23,Fully Paid,0
+24833,36 months,23.0,D,5 years,OWN,75452.62,car,IL,19.82,0,30.34,Fully Paid,0
+5158,60 months,5.44,F,1 year,RENT,46888.74,other,TX,14.01,0,96.86,Fully Paid,0
+21309,60 months,18.28,A,2 years,OWN,55300.14,debt_consolidation,NY,37.01,0,20.21,Fully Paid,0
+7970,60 months,24.27,D,5 years,RENT,78973.6,debt_consolidation,CA,1.46,0,79.8,Fully Paid,0
+7938,36 months,16.2,C,2 years,OWN,73418.65,car,TX,23.47,1,98.5,Fully Paid,0
+22168,60 months,23.74,D,2 years,RENT,63417.52,other,TX,22.18,0,6.89,Charged Off,1
+21384,60 months,6.05,C,5 years,OWN,65383.32,other,FL,9.16,1,71.41,Fully Paid,0
+19017,36 months,13.38,B,5 years,RENT,88923.36,credit_card,IL,17.44,1,29.03,Fully Paid,0
+11344,36 months,10.2,F,< 1 year,OWN,64646.15,debt_consolidation,CA,26.26,1,8.85,Charged Off,1
+9702,60 months,19.62,A,2 years,MORTGAGE,73238.18,car,CA,29.22,2,43.27,Charged Off,1
+1384,60 months,24.63,D,3 years,OWN,118398.73,home_improvement,CA,0.53,0,93.85,Fully Paid,0
+1404,36 months,10.13,C,2 years,RENT,46526.35,debt_consolidation,TX,37.51,0,6.12,Charged Off,1
+30189,36 months,18.08,E,2 years,MORTGAGE,37963.15,credit_card,FL,7.0,1,60.85,Fully Paid,0
+13763,60 months,8.96,A,5 years,OWN,90671.79,other,NY,9.73,0,52.63,Fully Paid,0
+19384,60 months,16.31,B,2 years,MORTGAGE,61427.14,car,TX,10.91,0,87.97,Charged Off,1
+33606,60 months,14.28,C,10+ years,OWN,68635.25,debt_consolidation,NY,1.99,0,12.98,Fully Paid,0
+10860,60 months,24.44,G,2 years,MORTGAGE,59376.87,home_improvement,FL,5.36,0,69.74,Fully Paid,0
+16106,36 months,17.17,G,10+ years,RENT,69804.0,credit_card,IL,39.46,1,69.61,Fully Paid,0
+24574,60 months,11.99,F,3 years,OWN,106970.76,credit_card,CA,12.95,1,68.56,Fully Paid,0
+24524,60 months,7.28,F,5 years,OWN,91042.57,debt_consolidation,NY,5.05,0,94.52,Fully Paid,0
+4636,36 months,8.02,B,2 years,RENT,92244.47,home_improvement,TX,4.73,0,83.19,Fully Paid,0
+11916,60 months,9.51,B,10+ years,MORTGAGE,46675.46,credit_card,NY,28.92,0,8.99,Charged Off,1
+5809,36 months,10.02,F,10+ years,RENT,51976.93,car,IL,34.26,2,49.75,Fully Paid,0
+33201,60 months,22.01,D,10+ years,RENT,18218.43,credit_card,CA,10.65,0,42.81,Fully Paid,0
+14456,60 months,16.22,D,1 year,MORTGAGE,58812.38,home_improvement,NY,1.33,0,34.46,Charged Off,1
+18100,36 months,15.47,C,< 1 year,RENT,94134.06,other,IL,9.31,3,47.88,Fully Paid,0
+22949,36 months,7.3,E,3 years,OWN,85338.93,other,TX,2.73,0,41.5,Fully Paid,0
+5544,60 months,22.2,C,2 years,OWN,70569.73,debt_consolidation,FL,4.58,0,46.07,Fully Paid,0
+27657,60 months,19.46,E,1 year,OWN,74553.99,home_improvement,TX,17.54,0,98.03,Fully Paid,0
+8239,60 months,6.35,B,2 years,RENT,61222.29,credit_card,CA,9.58,0,13.42,Fully Paid,0
+15489,36 months,19.16,A,2 years,OWN,79095.18,credit_card,TX,20.88,0,92.61,Fully Paid,0
+29538,60 months,15.87,C,5 years,OWN,90317.57,other,TX,10.51,0,50.62,Fully Paid,0
+33049,36 months,6.63,C,5 years,OWN,42682.26,other,TX,37.65,2,64.26,Fully Paid,0
+9427,36 months,14.17,E,5 years,OWN,80992.95,car,TX,36.28,0,83.87,Fully Paid,0
+25285,60 months,14.69,B,1 year,OWN,93648.7,other,CA,22.89,0,39.24,Charged Off,1
+23928,36 months,8.32,B,2 years,OWN,66697.99,car,IL,14.5,1,45.89,Fully Paid,0
+20198,60 months,23.91,G,< 1 year,RENT,89014.01,credit_card,NY,15.56,1,43.9,Fully Paid,0
+20758,60 months,22.0,E,3 years,OWN,131293.09,car,FL,16.77,0,40.6,Fully Paid,0
+16254,60 months,18.38,B,5 years,OWN,72913.14,car,NY,29.24,0,92.93,Charged Off,1
+2252,60 months,14.25,F,5 years,MORTGAGE,82866.14,debt_consolidation,NY,18.34,0,83.75,Fully Paid,0
+13173,60 months,13.24,D,2 years,RENT,60238.86,other,FL,34.34,0,15.35,Charged Off,1
+27698,36 months,18.02,G,2 years,RENT,78625.02,car,CA,37.79,1,15.27,Fully Paid,0
+16781,36 months,15.91,F,1 year,RENT,84205.43,credit_card,FL,13.77,0,45.65,Charged Off,1
+14051,60 months,6.25,A,1 year,RENT,78896.85,home_improvement,CA,22.65,0,14.37,Fully Paid,0
+7949,60 months,15.25,C,5 years,OWN,54606.09,car,NY,4.25,1,63.81,Fully Paid,0
+9017,36 months,21.13,G,2 years,OWN,79127.24,other,CA,8.42,1,18.65,Fully Paid,0
+7941,36 months,14.18,A,< 1 year,MORTGAGE,104243.92,debt_consolidation,IL,16.83,0,54.63,Fully Paid,0
+26934,36 months,6.04,C,3 years,MORTGAGE,83972.72,credit_card,FL,8.65,0,5.69,Fully Paid,0
+24386,36 months,20.73,D,2 years,RENT,94239.74,debt_consolidation,IL,35.12,1,35.08,Fully Paid,0
+11209,60 months,9.03,B,2 years,MORTGAGE,70259.76,home_improvement,NY,6.75,1,69.33,Fully Paid,0
+18715,60 months,10.17,F,10+ years,MORTGAGE,89998.0,car,FL,18.5,0,50.98,Fully Paid,0
+29920,36 months,8.29,E,1 year,RENT,80585.36,car,NY,24.43,1,97.94,Fully Paid,0
+32703,60 months,11.6,F,3 years,RENT,55981.79,other,IL,27.83,0,88.04,Fully Paid,0
+5637,36 months,20.14,D,5 years,MORTGAGE,81370.42,car,NY,15.63,1,39.11,Fully Paid,0
+5854,60 months,15.39,A,2 years,OWN,55166.07,credit_card,FL,34.83,1,9.32,Fully Paid,0
+20856,36 months,9.1,E,5 years,MORTGAGE,62342.39,home_improvement,FL,22.95,0,85.33,Fully Paid,0
+22833,60 months,22.56,B,2 years,MORTGAGE,78786.57,debt_consolidation,NY,17.86,0,91.57,Fully Paid,0
+20963,36 months,22.59,D,5 years,OWN,80944.89,home_improvement,FL,3.16,1,82.96,Fully Paid,0
+28169,36 months,22.41,E,3 years,OWN,51215.35,car,FL,18.86,2,17.16,Fully Paid,0
+8941,60 months,9.78,D,1 year,RENT,96079.72,debt_consolidation,NY,32.92,0,99.8,Fully Paid,0
+15388,36 months,14.02,D,3 years,RENT,86440.13,other,IL,24.77,0,29.57,Fully Paid,0
+6569,60 months,24.7,B,10+ years,MORTGAGE,60905.43,home_improvement,FL,33.37,0,73.8,Fully Paid,0
+5300,60 months,20.44,G,< 1 year,OWN,44248.3,debt_consolidation,FL,20.01,0,91.26,Charged Off,1
+13015,36 months,5.54,C,1 year,RENT,72101.91,debt_consolidation,FL,5.18,0,27.39,Fully Paid,0
+7254,60 months,6.3,E,3 years,MORTGAGE,66081.13,debt_consolidation,FL,1.04,4,91.28,Fully Paid,0
+18144,60 months,14.28,B,10+ years,OWN,77262.81,credit_card,NY,12.48,1,34.4,Fully Paid,0
+25214,60 months,23.18,D,< 1 year,MORTGAGE,67737.67,home_improvement,IL,28.07,0,97.76,Fully Paid,0
+16183,60 months,15.77,B,10+ years,RENT,34850.86,debt_consolidation,IL,31.72,1,31.72,Fully Paid,0
+7238,60 months,14.96,G,2 years,RENT,67233.06,home_improvement,CA,12.18,0,95.58,Fully Paid,0
+7090,36 months,7.11,C,2 years,OWN,68887.62,debt_consolidation,FL,20.08,2,10.09,Charged Off,1
+12637,60 months,18.14,F,5 years,MORTGAGE,87673.22,other,FL,17.13,1,72.38,Charged Off,1
+23415,60 months,21.44,E,1 year,OWN,61036.01,other,CA,16.72,0,55.55,Fully Paid,0
+25071,60 months,12.61,C,2 years,RENT,108573.49,other,IL,9.64,1,50.4,Fully Paid,0
+19271,60 months,20.51,A,10+ years,RENT,36767.19,car,TX,5.89,1,26.23,Fully Paid,0
+34434,60 months,24.29,E,1 year,MORTGAGE,101223.35,debt_consolidation,TX,8.27,0,72.03,Fully Paid,0
+5188,36 months,9.08,C,2 years,MORTGAGE,70513.62,car,IL,2.69,1,23.13,Charged Off,1
+11161,60 months,15.47,D,5 years,MORTGAGE,92191.7,home_improvement,FL,8.33,0,57.52,Fully Paid,0
+29732,36 months,10.74,E,3 years,OWN,76596.03,car,TX,0.86,1,29.06,Fully Paid,0
+12314,36 months,20.86,E,5 years,MORTGAGE,97791.11,home_improvement,NY,25.28,1,95.78,Fully Paid,0
+24954,36 months,16.55,B,< 1 year,MORTGAGE,67252.76,home_improvement,NY,13.0,0,7.72,Fully Paid,0
+22508,36 months,17.69,D,2 years,RENT,53027.59,home_improvement,CA,38.94,0,23.97,Charged Off,1
+22969,60 months,20.96,A,< 1 year,RENT,103410.09,car,IL,8.15,0,28.02,Fully Paid,0
+24061,36 months,12.92,F,< 1 year,MORTGAGE,72730.39,debt_consolidation,IL,14.16,0,44.34,Fully Paid,0
+14716,36 months,23.3,G,10+ years,MORTGAGE,79431.17,car,TX,14.63,0,27.11,Fully Paid,0
+17907,60 months,15.66,C,1 year,RENT,99695.04,debt_consolidation,FL,0.83,0,51.68,Charged Off,1
+19777,60 months,8.16,B,10+ years,MORTGAGE,54360.9,debt_consolidation,IL,33.65,0,87.88,Fully Paid,0
+28693,60 months,18.92,C,2 years,OWN,86909.82,home_improvement,TX,1.76,0,72.65,Charged Off,1
+27329,36 months,20.87,A,< 1 year,OWN,63202.1,car,TX,37.64,0,60.1,Fully Paid,0
+17282,60 months,11.34,A,3 years,OWN,72356.61,debt_consolidation,IL,35.74,0,13.46,Charged Off,1
+24624,60 months,22.14,E,< 1 year,MORTGAGE,76445.58,other,TX,21.65,1,70.93,Fully Paid,0
+24321,36 months,23.12,G,3 years,RENT,44995.56,debt_consolidation,CA,21.97,1,20.81,Fully Paid,0
+11488,60 months,10.54,A,10+ years,MORTGAGE,59423.26,other,CA,26.32,1,79.7,Fully Paid,0
+23574,60 months,24.67,C,10+ years,MORTGAGE,102021.46,car,IL,15.79,1,28.76,Fully Paid,0
+6240,60 months,7.81,D,1 year,RENT,92723.82,car,FL,26.07,3,44.62,Fully Paid,0
+11478,60 months,9.04,D,< 1 year,RENT,73747.21,car,CA,2.27,0,38.29,Charged Off,1
+20262,36 months,8.68,E,5 years,RENT,79862.47,debt_consolidation,CA,2.63,0,86.59,Fully Paid,0
+5432,60 months,22.88,F,10+ years,OWN,69115.15,credit_card,IL,18.56,0,17.02,Fully Paid,0
+30721,60 months,18.09,C,10+ years,MORTGAGE,102131.67,debt_consolidation,NY,22.21,1,58.74,Fully Paid,0
+14568,36 months,8.04,C,1 year,RENT,70992.95,debt_consolidation,TX,35.57,0,18.5,Fully Paid,0
+15178,60 months,13.81,A,3 years,MORTGAGE,79636.84,home_improvement,CA,4.63,0,71.96,Charged Off,1
+23195,36 months,17.31,G,1 year,OWN,97920.6,home_improvement,NY,32.99,0,90.98,Fully Paid,0
+1302,60 months,6.67,C,< 1 year,OWN,59452.57,debt_consolidation,FL,8.8,0,46.29,Charged Off,1
+18022,36 months,22.65,B,2 years,RENT,106175.78,other,NY,16.07,1,51.37,Charged Off,1
+1055,36 months,21.07,F,2 years,RENT,44390.77,home_improvement,IL,13.01,0,93.11,Fully Paid,0
+9717,36 months,15.1,A,3 years,MORTGAGE,107592.84,debt_consolidation,FL,16.31,0,54.49,Fully Paid,0
+29699,36 months,24.34,B,10+ years,RENT,67546.49,credit_card,FL,6.44,0,51.32,Charged Off,1
+9150,60 months,13.36,E,3 years,MORTGAGE,70146.03,other,NY,20.39,0,59.94,Fully Paid,0
+3125,36 months,24.68,D,10+ years,RENT,37199.8,car,IL,32.16,1,70.48,Fully Paid,0
+17748,60 months,18.36,E,10+ years,MORTGAGE,65904.11,debt_consolidation,CA,17.94,1,15.15,Fully Paid,0
+5621,36 months,17.69,D,2 years,MORTGAGE,54203.87,debt_consolidation,NY,19.88,0,83.01,Fully Paid,0
+16034,36 months,8.32,E,3 years,MORTGAGE,62847.07,other,CA,34.03,3,46.37,Fully Paid,0
+6126,36 months,22.64,C,1 year,MORTGAGE,72253.78,home_improvement,NY,28.39,3,11.87,Fully Paid,0
+6122,60 months,13.55,B,10+ years,OWN,94155.83,home_improvement,CA,19.87,2,79.69,Fully Paid,0
+19030,36 months,8.24,D,5 years,MORTGAGE,79152.07,home_improvement,NY,10.68,0,40.81,Charged Off,1
+18302,60 months,5.25,A,5 years,RENT,81153.53,car,FL,35.45,1,14.53,Fully Paid,0
+20181,60 months,16.2,B,1 year,OWN,53089.61,other,TX,23.29,0,65.21,Fully Paid,0
+2531,60 months,15.55,A,5 years,OWN,57384.92,other,FL,9.24,0,88.61,Fully Paid,0
+24333,60 months,19.39,B,< 1 year,MORTGAGE,110974.5,home_improvement,CA,11.13,1,89.34,Fully Paid,0
+9152,60 months,22.81,B,10+ years,OWN,60295.98,home_improvement,IL,32.22,0,95.98,Fully Paid,0
+11267,60 months,6.59,E,1 year,MORTGAGE,108124.17,credit_card,FL,2.24,1,87.43,Fully Paid,0
+26289,60 months,19.63,D,3 years,RENT,70138.78,credit_card,TX,39.69,0,5.2,Fully Paid,0
+2062,60 months,8.75,D,10+ years,MORTGAGE,75045.76,debt_consolidation,CA,5.65,2,41.12,Fully Paid,0
+30926,60 months,22.16,G,1 year,OWN,96407.3,debt_consolidation,FL,31.94,0,82.76,Fully Paid,0
+7229,36 months,21.38,B,2 years,RENT,100437.85,other,NY,16.09,0,39.79,Charged Off,1
+5632,36 months,15.82,C,3 years,MORTGAGE,72783.75,other,IL,19.94,0,62.15,Fully Paid,0
+4596,36 months,19.2,C,2 years,RENT,67235.14,car,CA,35.29,0,62.6,Charged Off,1
+7168,36 months,11.29,A,10+ years,RENT,73881.59,car,FL,16.81,2,39.68,Charged Off,1
+8561,36 months,14.42,A,3 years,OWN,81759.15,credit_card,CA,21.73,0,90.93,Fully Paid,0
+9258,60 months,21.43,E,5 years,RENT,92826.07,debt_consolidation,NY,2.45,0,52.81,Fully Paid,0
+17616,60 months,14.19,B,1 year,OWN,75084.6,credit_card,TX,0.59,0,49.15,Fully Paid,0
+27734,60 months,12.16,A,10+ years,RENT,87377.73,credit_card,FL,10.17,0,99.76,Charged Off,1
+7371,60 months,14.88,A,< 1 year,MORTGAGE,107767.19,debt_consolidation,CA,27.38,2,51.88,Fully Paid,0
+27069,60 months,21.56,F,3 years,RENT,82626.19,car,CA,5.29,1,21.95,Fully Paid,0
+15369,60 months,11.7,B,3 years,MORTGAGE,81233.06,debt_consolidation,CA,4.99,1,53.74,Fully Paid,0
+13910,60 months,8.48,E,10+ years,MORTGAGE,44621.78,home_improvement,TX,16.73,0,82.33,Fully Paid,0
+8943,36 months,19.24,A,10+ years,RENT,22385.4,home_improvement,CA,26.09,1,78.8,Fully Paid,0
+13199,36 months,21.52,E,2 years,MORTGAGE,82767.51,home_improvement,IL,28.63,1,79.92,Fully Paid,0
+16728,36 months,7.01,D,5 years,RENT,73103.52,other,IL,7.55,0,72.26,Fully Paid,0
+24275,36 months,9.8,E,2 years,RENT,64704.35,car,CA,3.64,0,29.15,Fully Paid,0
+7738,60 months,7.84,C,2 years,MORTGAGE,79870.6,car,IL,37.65,0,86.9,Fully Paid,0
+16913,60 months,11.96,C,5 years,MORTGAGE,73791.93,other,FL,10.8,1,89.88,Fully Paid,0
+20123,60 months,14.01,E,< 1 year,OWN,97555.61,credit_card,IL,34.21,1,23.44,Fully Paid,0
+11167,36 months,19.98,C,2 years,MORTGAGE,76722.22,home_improvement,CA,34.61,1,17.39,Fully Paid,0
+11554,60 months,18.02,D,2 years,OWN,60061.53,home_improvement,NY,31.01,1,97.68,Charged Off,1
+18260,60 months,17.42,B,3 years,MORTGAGE,94803.32,credit_card,FL,7.17,0,87.49,Charged Off,1
+4812,60 months,12.05,C,5 years,RENT,70657.38,debt_consolidation,TX,32.96,0,89.86,Fully Paid,0
+29024,36 months,21.83,C,1 year,MORTGAGE,85530.73,debt_consolidation,CA,30.89,0,89.21,Fully Paid,0
+28285,60 months,14.43,E,< 1 year,RENT,65451.79,car,TX,24.07,0,56.46,Fully Paid,0
+27900,36 months,24.58,D,< 1 year,RENT,62003.46,other,NY,13.82,1,66.41,Fully Paid,0
+2605,36 months,17.68,G,5 years,RENT,76683.36,car,TX,10.87,0,56.81,Fully Paid,0
+6622,36 months,7.53,G,10+ years,OWN,75256.57,debt_consolidation,CA,5.31,1,9.86,Fully Paid,0
+7767,36 months,18.52,G,10+ years,MORTGAGE,84596.54,credit_card,CA,20.64,0,75.82,Fully Paid,0
+28139,60 months,11.5,G,3 years,RENT,69627.08,car,NY,23.62,0,53.01,Fully Paid,0
+12613,36 months,18.73,B,3 years,RENT,38272.8,home_improvement,CA,14.69,1,66.53,Fully Paid,0
+11589,36 months,6.39,E,5 years,OWN,66344.52,home_improvement,NY,19.28,0,52.75,Fully Paid,0
+14918,60 months,8.5,E,3 years,MORTGAGE,90876.37,credit_card,NY,14.86,0,51.72,Fully Paid,0
+21119,60 months,22.11,F,< 1 year,MORTGAGE,69052.48,debt_consolidation,CA,25.82,1,21.32,Fully Paid,0
+28446,36 months,9.54,D,< 1 year,OWN,70072.33,home_improvement,IL,36.1,1,31.48,Fully Paid,0
+14046,60 months,21.74,G,1 year,OWN,94727.53,home_improvement,NY,6.97,0,20.09,Charged Off,1
+25818,36 months,10.59,B,10+ years,MORTGAGE,60760.54,other,CA,15.57,0,23.59,Fully Paid,0
+5324,36 months,17.86,D,5 years,OWN,44143.94,car,IL,6.06,0,97.43,Charged Off,1
+11787,36 months,18.88,G,2 years,MORTGAGE,71787.38,debt_consolidation,NY,25.19,0,19.55,Fully Paid,0
+10111,36 months,15.25,B,10+ years,MORTGAGE,65316.52,car,IL,29.29,0,30.58,Fully Paid,0
+17389,60 months,11.11,D,2 years,RENT,55675.07,debt_consolidation,FL,37.31,0,61.11,Fully Paid,0
+15043,36 months,9.25,E,1 year,RENT,71492.43,home_improvement,FL,11.52,1,62.97,Fully Paid,0
+29746,60 months,5.66,E,1 year,MORTGAGE,84830.11,other,IL,38.03,1,19.63,Fully Paid,0
+23350,60 months,11.08,A,3 years,MORTGAGE,74814.23,car,NY,3.0,0,80.4,Fully Paid,0
+1117,60 months,18.06,C,1 year,MORTGAGE,81139.62,home_improvement,CA,24.32,0,79.59,Fully Paid,0
+19935,60 months,23.77,G,1 year,MORTGAGE,111268.15,debt_consolidation,TX,2.76,0,27.55,Fully Paid,0
+14234,36 months,22.42,F,2 years,MORTGAGE,68142.42,car,CA,35.8,0,32.42,Fully Paid,0
+1846,60 months,20.32,D,3 years,MORTGAGE,80566.97,car,TX,21.43,0,94.11,Fully Paid,0
+11954,36 months,20.77,F,1 year,OWN,64815.73,home_improvement,TX,26.94,2,83.44,Fully Paid,0
+14703,60 months,18.3,A,10+ years,MORTGAGE,58072.81,car,NY,33.35,2,71.29,Charged Off,1
+23700,60 months,10.21,C,1 year,OWN,63301.85,other,IL,6.44,1,12.81,Fully Paid,0
+33043,36 months,23.14,D,3 years,OWN,65424.83,other,CA,2.02,0,44.74,Fully Paid,0
+7469,36 months,18.41,B,5 years,MORTGAGE,82189.52,home_improvement,IL,35.22,0,58.13,Fully Paid,0
+31105,36 months,16.21,G,3 years,MORTGAGE,121981.52,debt_consolidation,FL,12.94,0,22.8,Fully Paid,0
+27386,60 months,7.22,C,2 years,OWN,60679.13,home_improvement,NY,5.59,0,47.58,Fully Paid,0
+3048,60 months,13.94,E,5 years,OWN,66667.49,other,NY,19.0,0,62.1,Charged Off,1
+13941,36 months,14.21,A,10+ years,MORTGAGE,73737.54,credit_card,FL,24.13,3,36.1,Fully Paid,0
+2828,36 months,22.29,C,< 1 year,MORTGAGE,82915.98,credit_card,CA,1.72,1,79.19,Charged Off,1
+2917,36 months,15.93,G,3 years,OWN,80271.02,car,FL,11.36,0,84.84,Fully Paid,0
+21618,36 months,12.61,C,2 years,OWN,100681.92,car,CA,1.8,0,35.74,Fully Paid,0
+33254,60 months,24.54,G,10+ years,OWN,26472.16,credit_card,TX,17.1,1,84.67,Fully Paid,0
+21128,36 months,7.21,E,5 years,RENT,27261.4,other,NY,35.86,1,14.84,Fully Paid,0
+1009,36 months,13.45,D,10+ years,OWN,65082.44,car,CA,39.31,0,84.58,Fully Paid,0
+17644,36 months,5.84,B,3 years,RENT,96946.0,home_improvement,IL,25.66,1,19.51,Fully Paid,0
+23422,36 months,19.8,E,1 year,MORTGAGE,43687.04,home_improvement,IL,6.88,0,12.88,Fully Paid,0
+10865,60 months,23.36,B,3 years,MORTGAGE,14847.35,other,NY,36.28,0,65.97,Charged Off,1
+3219,36 months,10.6,D,< 1 year,OWN,86423.59,car,FL,20.89,0,49.83,Fully Paid,0
+6287,60 months,22.17,C,3 years,MORTGAGE,79873.14,home_improvement,FL,6.57,1,91.25,Charged Off,1
+9512,36 months,10.84,B,5 years,MORTGAGE,53195.83,car,CA,36.91,0,39.5,Fully Paid,0
+2342,36 months,23.22,A,5 years,MORTGAGE,55289.21,car,FL,30.42,0,32.28,Fully Paid,0
+20216,60 months,20.08,A,3 years,MORTGAGE,55605.13,home_improvement,NY,29.4,1,52.57,Charged Off,1
+28534,36 months,21.1,G,5 years,RENT,77210.71,credit_card,CA,28.51,1,48.31,Charged Off,1
+15231,60 months,5.36,E,1 year,RENT,62473.69,home_improvement,TX,8.41,0,37.72,Fully Paid,0
+33293,60 months,24.26,D,10+ years,OWN,84881.28,other,FL,8.83,1,70.91,Fully Paid,0
+27614,36 months,19.53,G,3 years,OWN,17907.47,debt_consolidation,FL,27.69,0,77.16,Fully Paid,0
+29253,60 months,11.1,E,1 year,OWN,57862.96,home_improvement,CA,9.18,0,86.03,Fully Paid,0
+18988,60 months,21.59,E,10+ years,MORTGAGE,52478.92,car,IL,17.83,2,97.42,Fully Paid,0
+32037,60 months,10.63,G,10+ years,MORTGAGE,69873.19,car,FL,31.39,0,30.33,Fully Paid,0
+13219,60 months,22.46,F,1 year,RENT,64239.04,home_improvement,NY,31.47,1,73.03,Charged Off,1
+1235,60 months,7.25,E,2 years,RENT,90956.88,debt_consolidation,FL,18.4,1,42.45,Charged Off,1
+2908,60 months,19.07,F,3 years,OWN,37813.26,home_improvement,TX,31.79,1,69.32,Fully Paid,0
+9567,60 months,15.81,A,10+ years,RENT,75909.83,debt_consolidation,FL,33.63,0,50.22,Fully Paid,0
+6256,60 months,6.93,A,10+ years,RENT,86166.73,debt_consolidation,IL,26.36,2,99.41,Charged Off,1
+20019,36 months,9.84,E,5 years,RENT,112132.95,other,FL,9.52,0,74.25,Fully Paid,0
+9162,36 months,5.25,A,10+ years,RENT,65364.68,car,CA,11.32,1,95.49,Fully Paid,0
+6415,60 months,14.38,D,1 year,RENT,81489.17,car,FL,12.94,2,84.32,Fully Paid,0
+6951,36 months,11.03,F,10+ years,OWN,38922.74,debt_consolidation,IL,5.11,3,90.78,Fully Paid,0
+22852,60 months,16.97,F,2 years,OWN,27160.88,car,CA,11.29,1,82.37,Charged Off,1
+9007,60 months,10.94,E,3 years,RENT,91895.49,credit_card,NY,8.78,0,48.62,Fully Paid,0
+31523,36 months,11.0,A,3 years,OWN,74888.79,debt_consolidation,CA,18.49,1,28.92,Fully Paid,0
+24325,60 months,19.86,B,10+ years,MORTGAGE,98570.25,car,TX,36.38,0,40.18,Fully Paid,0
+22204,60 months,5.96,G,< 1 year,RENT,47531.94,credit_card,CA,4.63,2,6.92,Charged Off,1
+16524,60 months,23.06,G,< 1 year,MORTGAGE,85398.04,other,NY,28.95,1,54.78,Charged Off,1
+20282,60 months,22.05,F,1 year,OWN,112376.36,car,FL,27.65,0,52.98,Fully Paid,0
+24930,36 months,18.36,E,< 1 year,OWN,83394.11,credit_card,CA,4.28,1,54.9,Fully Paid,0
+1077,60 months,16.86,E,1 year,MORTGAGE,80531.63,home_improvement,CA,36.94,0,97.53,Fully Paid,0
+21611,60 months,22.85,D,5 years,OWN,75171.12,home_improvement,CA,22.95,0,91.59,Fully Paid,0
+17984,60 months,8.71,C,1 year,RENT,43582.37,credit_card,CA,14.87,0,20.36,Fully Paid,0
+15060,36 months,6.58,C,< 1 year,MORTGAGE,102111.46,debt_consolidation,NY,30.38,0,40.04,Fully Paid,0
+18449,60 months,9.79,F,10+ years,RENT,62782.85,debt_consolidation,IL,10.67,2,45.28,Fully Paid,0
+19520,36 months,20.89,G,5 years,MORTGAGE,85089.67,car,IL,27.89,1,39.25,Fully Paid,0
+10510,36 months,5.69,D,< 1 year,OWN,43739.31,home_improvement,CA,2.07,0,80.86,Fully Paid,0
+30287,60 months,16.66,D,1 year,MORTGAGE,51410.81,debt_consolidation,NY,33.66,1,54.78,Charged Off,1
+29173,60 months,24.91,D,2 years,MORTGAGE,103701.75,debt_consolidation,NY,18.2,0,59.35,Fully Paid,0
+12954,36 months,22.11,F,3 years,RENT,68053.95,home_improvement,CA,25.65,1,86.04,Fully Paid,0
+8804,60 months,15.43,C,< 1 year,OWN,104065.51,other,TX,9.24,1,81.56,Charged Off,1
+7565,36 months,6.27,G,1 year,RENT,73435.39,debt_consolidation,CA,27.24,0,17.56,Fully Paid,0
+6984,36 months,21.63,D,5 years,OWN,38162.04,credit_card,TX,31.0,0,72.82,Fully Paid,0
+22526,60 months,16.98,G,< 1 year,RENT,92841.35,car,CA,19.19,0,46.37,Fully Paid,0
+19574,60 months,7.3,A,< 1 year,MORTGAGE,63202.15,debt_consolidation,TX,24.9,0,32.99,Fully Paid,0
+10184,36 months,6.88,E,3 years,RENT,88973.78,debt_consolidation,TX,18.52,0,9.75,Fully Paid,0
+20096,36 months,23.19,E,1 year,OWN,75504.22,other,CA,35.82,2,51.29,Fully Paid,0
+3192,36 months,18.38,G,2 years,OWN,44137.64,credit_card,TX,20.17,0,38.77,Charged Off,1
+12246,36 months,21.59,B,5 years,MORTGAGE,78285.9,car,FL,33.75,0,28.89,Fully Paid,0
+19381,60 months,22.58,B,1 year,OWN,118924.46,debt_consolidation,IL,32.15,2,70.99,Fully Paid,0
+27727,60 months,16.44,F,5 years,RENT,84859.73,car,NY,16.71,1,78.1,Fully Paid,0
+5018,60 months,15.35,F,< 1 year,MORTGAGE,73849.64,home_improvement,TX,9.59,0,28.26,Fully Paid,0
+12302,60 months,13.61,E,3 years,OWN,96506.87,debt_consolidation,TX,16.54,0,9.7,Fully Paid,0
+2970,60 months,11.34,A,3 years,OWN,79213.37,debt_consolidation,NY,33.14,0,85.63,Fully Paid,0
+28202,36 months,13.69,C,10+ years,RENT,79190.68,home_improvement,TX,9.49,0,5.95,Fully Paid,0
+32110,60 months,20.48,C,2 years,RENT,53167.5,other,NY,21.22,0,94.03,Fully Paid,0
+18586,60 months,17.04,F,3 years,MORTGAGE,79676.96,debt_consolidation,CA,32.34,1,64.62,Fully Paid,0
+25519,60 months,22.85,A,< 1 year,OWN,95708.87,car,FL,14.46,0,35.58,Fully Paid,0
+32273,60 months,13.87,F,2 years,RENT,58278.76,credit_card,FL,25.87,0,28.42,Charged Off,1
+22951,60 months,17.14,C,1 year,MORTGAGE,103489.92,car,IL,10.2,0,5.86,Fully Paid,0
+16374,36 months,17.63,G,3 years,OWN,73165.88,other,TX,4.82,0,27.37,Fully Paid,0
+6788,36 months,16.83,F,2 years,OWN,57244.61,credit_card,IL,31.88,0,18.08,Fully Paid,0
+6408,36 months,19.05,D,< 1 year,MORTGAGE,94952.64,car,CA,4.41,0,63.16,Fully Paid,0
+26053,60 months,9.75,G,10+ years,MORTGAGE,69264.12,car,FL,11.22,0,20.82,Fully Paid,0
+10446,36 months,15.25,F,5 years,RENT,90190.3,home_improvement,CA,34.28,0,55.22,Fully Paid,0
+1922,36 months,7.08,E,5 years,OWN,69164.83,other,CA,14.19,0,61.06,Fully Paid,0
+34187,60 months,12.69,F,< 1 year,OWN,73803.48,home_improvement,TX,38.94,1,33.31,Fully Paid,0
+11789,60 months,14.75,E,< 1 year,OWN,84871.2,credit_card,CA,39.2,0,8.33,Charged Off,1
+33184,60 months,18.04,A,5 years,MORTGAGE,80817.94,home_improvement,FL,11.1,0,8.54,Fully Paid,0
+2120,36 months,24.01,C,10+ years,RENT,35089.36,other,IL,2.12,0,7.5,Charged Off,1
+33154,36 months,17.01,G,2 years,OWN,52575.13,debt_consolidation,FL,28.35,0,75.22,Fully Paid,0
+18334,60 months,19.87,G,5 years,MORTGAGE,93588.2,debt_consolidation,TX,18.31,0,35.21,Fully Paid,0
+3336,60 months,15.13,B,< 1 year,OWN,72357.27,credit_card,FL,4.48,0,80.65,Fully Paid,0
+3243,36 months,17.68,B,3 years,RENT,64525.37,debt_consolidation,NY,28.45,0,46.01,Charged Off,1
+20029,36 months,6.42,C,1 year,OWN,47828.52,home_improvement,IL,1.73,1,48.03,Charged Off,1
+33265,60 months,10.09,B,10+ years,RENT,53405.27,credit_card,NY,34.87,0,53.72,Fully Paid,0
+24710,60 months,12.24,G,10+ years,RENT,34564.03,other,NY,5.98,0,72.74,Fully Paid,0
+30486,36 months,14.45,F,3 years,OWN,72974.39,credit_card,TX,5.53,2,30.98,Fully Paid,0
+7371,60 months,5.91,A,3 years,OWN,63031.25,credit_card,CA,7.44,1,16.55,Fully Paid,0
+7359,36 months,7.8,A,< 1 year,RENT,55668.24,car,NY,38.43,2,57.83,Fully Paid,0
+21103,36 months,10.54,C,5 years,MORTGAGE,73637.53,car,FL,27.88,1,36.06,Charged Off,1
+15382,36 months,24.43,B,2 years,RENT,82279.41,credit_card,CA,32.15,0,47.04,Fully Paid,0
+19755,36 months,11.63,F,10+ years,OWN,116863.96,debt_consolidation,FL,16.21,0,66.46,Fully Paid,0
+4756,60 months,14.64,A,10+ years,OWN,44762.33,car,FL,13.78,1,51.94,Fully Paid,0
+21609,60 months,8.92,A,3 years,MORTGAGE,98187.62,other,CA,9.76,0,63.93,Fully Paid,0
+17478,36 months,17.22,D,5 years,RENT,94462.03,home_improvement,CA,19.49,1,56.7,Fully Paid,0
+11147,36 months,10.61,D,10+ years,RENT,59418.15,car,FL,22.3,0,75.28,Fully Paid,0
+34561,36 months,9.14,G,2 years,RENT,79064.72,credit_card,TX,25.46,0,72.06,Charged Off,1
+6779,36 months,15.33,A,3 years,OWN,65847.34,debt_consolidation,IL,10.66,0,55.75,Fully Paid,0
+13298,36 months,5.11,C,2 years,RENT,78713.77,home_improvement,IL,37.97,0,69.5,Fully Paid,0
+15153,60 months,5.15,E,5 years,MORTGAGE,105182.62,car,TX,7.21,0,87.99,Fully Paid,0
+11789,60 months,9.38,E,10+ years,OWN,87112.12,debt_consolidation,CA,38.64,2,46.07,Fully Paid,0
+13999,60 months,5.73,F,1 year,OWN,85172.17,debt_consolidation,FL,1.09,0,44.21,Fully Paid,0
+1814,60 months,7.16,A,10+ years,RENT,66393.81,debt_consolidation,IL,19.5,0,77.6,Fully Paid,0
+11541,36 months,11.78,A,5 years,MORTGAGE,45318.87,credit_card,FL,13.67,1,60.34,Fully Paid,0
+25938,36 months,21.05,G,10+ years,OWN,70830.64,other,TX,18.24,0,11.75,Charged Off,1
+3443,36 months,16.44,A,10+ years,OWN,99132.16,debt_consolidation,FL,23.04,1,89.75,Fully Paid,0
+11457,36 months,15.25,C,< 1 year,RENT,44456.64,home_improvement,TX,17.71,0,7.92,Fully Paid,0
+11380,36 months,10.87,D,10+ years,RENT,53898.21,car,CA,16.89,1,76.1,Charged Off,1
+8783,60 months,23.64,A,10+ years,MORTGAGE,77525.35,home_improvement,TX,29.44,0,77.09,Fully Paid,0
+18368,36 months,12.94,A,2 years,RENT,55306.9,credit_card,TX,27.59,1,95.55,Charged Off,1
+16328,60 months,6.74,G,1 year,MORTGAGE,59149.53,credit_card,IL,33.41,1,10.14,Fully Paid,0
+27215,60 months,17.34,B,2 years,OWN,66528.03,home_improvement,FL,10.37,4,61.7,Fully Paid,0
+34595,60 months,7.28,G,2 years,MORTGAGE,47687.65,other,IL,24.58,0,45.64,Charged Off,1
+28306,60 months,11.9,G,3 years,MORTGAGE,55517.56,credit_card,NY,23.62,0,36.41,Charged Off,1
+20915,36 months,15.15,C,< 1 year,MORTGAGE,89068.56,credit_card,TX,15.1,2,13.58,Fully Paid,0
+16343,60 months,22.48,F,2 years,OWN,48852.6,home_improvement,NY,19.7,4,58.45,Fully Paid,0
+1126,60 months,14.87,A,5 years,RENT,43042.56,credit_card,IL,12.89,0,50.51,Fully Paid,0
+28632,60 months,19.05,G,5 years,OWN,62399.5,other,FL,6.1,0,14.93,Charged Off,1
+21530,36 months,24.86,G,10+ years,RENT,89639.11,other,IL,8.95,0,63.19,Fully Paid,0
+4368,36 months,7.63,B,3 years,MORTGAGE,71061.56,other,FL,4.67,1,75.11,Charged Off,1
+4797,36 months,10.49,G,< 1 year,MORTGAGE,65708.38,car,FL,27.48,1,77.89,Fully Paid,0
+14718,60 months,12.89,E,< 1 year,MORTGAGE,75887.18,other,CA,26.6,0,91.01,Fully Paid,0
+12053,60 months,13.44,F,10+ years,MORTGAGE,40085.85,other,TX,38.05,0,43.9,Fully Paid,0
+23116,36 months,13.22,A,5 years,MORTGAGE,84894.11,car,IL,29.32,0,95.54,Fully Paid,0
+2645,60 months,23.15,A,1 year,RENT,82668.7,debt_consolidation,FL,2.56,0,87.22,Charged Off,1
+20256,36 months,19.28,B,3 years,RENT,66813.83,credit_card,IL,35.43,0,33.17,Fully Paid,0
+3708,36 months,17.16,C,10+ years,MORTGAGE,95118.49,other,IL,34.58,0,20.13,Charged Off,1
+12694,60 months,11.19,A,3 years,OWN,52450.08,credit_card,FL,18.01,0,46.36,Fully Paid,0
+10524,60 months,21.48,E,5 years,OWN,97558.18,home_improvement,NY,23.64,0,43.18,Fully Paid,0
+32880,60 months,24.1,A,5 years,MORTGAGE,78089.87,credit_card,TX,39.06,1,59.69,Charged Off,1
+33409,60 months,21.42,E,1 year,RENT,68268.95,car,TX,21.53,0,60.42,Fully Paid,0
+14224,36 months,5.03,F,1 year,OWN,74602.53,credit_card,CA,36.26,0,76.25,Fully Paid,0
+26150,36 months,17.73,F,< 1 year,OWN,72854.7,credit_card,CA,3.78,1,53.44,Fully Paid,0
+8973,36 months,6.02,D,3 years,OWN,99405.66,credit_card,CA,8.05,0,14.96,Charged Off,1
+9577,36 months,10.15,D,3 years,MORTGAGE,53466.42,debt_consolidation,TX,17.91,1,86.54,Charged Off,1
+9070,36 months,6.19,E,5 years,OWN,59749.62,debt_consolidation,NY,23.6,1,34.43,Fully Paid,0
+9666,60 months,17.08,C,< 1 year,OWN,95726.06,home_improvement,TX,32.74,0,97.27,Charged Off,1
+7783,36 months,18.73,A,10+ years,OWN,63089.3,car,TX,39.54,0,16.2,Fully Paid,0
+5971,36 months,7.29,G,3 years,OWN,93010.66,credit_card,TX,15.86,1,96.03,Fully Paid,0
+14490,36 months,12.68,A,< 1 year,RENT,108988.72,credit_card,TX,2.37,0,13.65,Charged Off,1
+2990,60 months,14.12,D,< 1 year,MORTGAGE,66964.1,credit_card,NY,32.15,0,26.95,Fully Paid,0
+6299,60 months,12.38,G,5 years,MORTGAGE,88627.25,credit_card,CA,24.37,0,9.43,Charged Off,1
+20956,60 months,7.42,E,< 1 year,RENT,51926.15,debt_consolidation,IL,8.34,0,71.99,Fully Paid,0
+23359,60 months,13.38,G,1 year,RENT,90094.67,home_improvement,CA,20.05,1,85.78,Fully Paid,0
+29734,36 months,20.02,A,1 year,MORTGAGE,78988.48,other,CA,29.82,0,46.24,Fully Paid,0
+5757,36 months,6.42,A,2 years,OWN,84460.77,car,IL,30.93,0,93.21,Fully Paid,0
+20097,60 months,6.6,C,5 years,OWN,62088.56,credit_card,TX,20.23,1,61.08,Fully Paid,0
+11395,60 months,12.1,B,10+ years,MORTGAGE,41778.33,home_improvement,NY,12.56,0,64.85,Fully Paid,0
+17241,36 months,23.83,G,2 years,OWN,85065.04,other,NY,38.96,0,85.31,Fully Paid,0
+28696,36 months,18.37,D,1 year,RENT,33731.94,home_improvement,CA,26.7,1,33.2,Fully Paid,0
+5944,60 months,18.57,D,2 years,OWN,68652.99,debt_consolidation,IL,16.63,1,38.66,Fully Paid,0
+20816,60 months,12.24,B,5 years,OWN,93823.64,other,FL,11.58,0,91.07,Fully Paid,0
+25917,60 months,16.87,A,5 years,OWN,78837.95,home_improvement,TX,29.38,1,90.59,Fully Paid,0
+32195,60 months,5.2,C,< 1 year,MORTGAGE,113966.85,debt_consolidation,CA,10.07,2,97.77,Fully Paid,0
+22566,36 months,17.72,C,3 years,RENT,95502.18,home_improvement,NY,7.28,1,90.67,Charged Off,1
+10916,36 months,23.27,D,< 1 year,OWN,61922.03,home_improvement,IL,21.43,1,17.1,Fully Paid,0
+21806,36 months,17.25,C,5 years,MORTGAGE,75546.27,other,IL,11.95,0,83.25,Charged Off,1
+10984,60 months,22.47,F,1 year,OWN,74052.59,debt_consolidation,CA,25.34,1,43.93,Fully Paid,0
+2759,60 months,19.48,B,10+ years,RENT,43356.46,credit_card,FL,5.16,0,99.13,Fully Paid,0
+27838,36 months,7.41,A,1 year,OWN,56192.02,car,NY,26.37,0,49.87,Charged Off,1
+3482,36 months,23.05,F,< 1 year,RENT,63784.78,other,CA,11.69,0,57.61,Fully Paid,0
+25442,36 months,6.33,B,10+ years,OWN,34275.59,debt_consolidation,FL,0.51,0,55.33,Fully Paid,0
+34719,36 months,15.68,E,5 years,RENT,75949.87,home_improvement,IL,5.51,0,35.57,Fully Paid,0
+28965,60 months,7.84,G,1 year,OWN,70018.56,debt_consolidation,TX,37.38,0,12.13,Fully Paid,0
+3079,36 months,5.23,D,5 years,RENT,41542.12,car,NY,34.76,0,90.09,Fully Paid,0
+3717,36 months,13.44,C,10+ years,OWN,83084.26,car,NY,9.73,0,81.25,Fully Paid,0
+28952,36 months,10.9,E,10+ years,OWN,89317.45,credit_card,FL,31.25,0,18.26,Fully Paid,0
+21908,36 months,14.72,C,1 year,MORTGAGE,79540.69,credit_card,CA,24.54,0,78.79,Fully Paid,0
+25861,36 months,16.54,F,5 years,MORTGAGE,68518.64,car,IL,38.85,0,64.46,Charged Off,1
+8311,36 months,5.87,A,2 years,RENT,86828.84,other,FL,15.26,1,43.87,Fully Paid,0
+29071,36 months,7.46,A,5 years,OWN,88604.41,other,TX,27.42,2,29.13,Fully Paid,0
+24570,60 months,16.17,A,10+ years,RENT,81148.07,home_improvement,TX,3.01,1,86.67,Charged Off,1
+19449,60 months,11.86,C,5 years,MORTGAGE,58507.75,credit_card,TX,16.15,0,71.52,Fully Paid,0
+34536,60 months,19.58,E,< 1 year,RENT,80532.02,home_improvement,FL,38.57,0,57.04,Fully Paid,0
+29865,60 months,18.05,A,2 years,RENT,98909.61,credit_card,IL,21.79,1,62.91,Fully Paid,0
+7645,36 months,21.91,E,3 years,MORTGAGE,63067.42,car,NY,11.87,1,13.65,Fully Paid,0
+27737,60 months,18.85,C,< 1 year,OWN,116958.79,other,CA,5.25,1,50.02,Fully Paid,0
+12485,60 months,13.6,F,3 years,RENT,64487.38,other,NY,28.29,0,23.4,Fully Paid,0
+26522,36 months,18.46,E,1 year,MORTGAGE,75648.14,car,IL,25.97,0,24.8,Charged Off,1
+13342,36 months,10.51,F,3 years,OWN,61550.29,home_improvement,NY,15.27,1,67.82,Charged Off,1
+14087,60 months,11.13,C,5 years,MORTGAGE,79465.42,home_improvement,FL,38.06,0,91.57,Charged Off,1
+11093,60 months,20.78,C,3 years,RENT,40155.57,debt_consolidation,TX,1.38,1,43.36,Fully Paid,0
+17438,36 months,13.93,D,10+ years,OWN,64079.16,credit_card,IL,12.5,0,24.74,Fully Paid,0
+27399,60 months,20.97,C,< 1 year,OWN,53157.58,home_improvement,IL,36.88,0,66.63,Fully Paid,0
+20846,36 months,21.45,C,< 1 year,MORTGAGE,77706.77,car,NY,13.18,0,87.76,Fully Paid,0
+16708,36 months,22.15,B,3 years,MORTGAGE,94888.95,home_improvement,FL,10.46,0,76.09,Fully Paid,0
+11998,36 months,23.33,A,< 1 year,MORTGAGE,87920.12,other,NY,21.6,0,87.53,Fully Paid,0
+31678,36 months,13.62,D,10+ years,OWN,27566.81,credit_card,NY,33.04,1,55.97,Charged Off,1
+11682,60 months,11.38,G,< 1 year,OWN,115841.39,debt_consolidation,IL,4.57,0,76.43,Fully Paid,0
+9519,36 months,16.64,D,3 years,RENT,80905.6,credit_card,NY,37.75,0,18.31,Fully Paid,0
+32480,36 months,12.42,D,2 years,OWN,59470.02,other,TX,31.91,0,38.09,Charged Off,1
+20694,60 months,17.02,G,2 years,RENT,78142.56,other,NY,7.66,0,42.01,Fully Paid,0
+4300,36 months,19.11,B,1 year,MORTGAGE,78523.8,other,TX,28.62,0,53.57,Fully Paid,0
+7722,60 months,18.77,F,< 1 year,MORTGAGE,61663.03,other,IL,15.71,0,93.26,Fully Paid,0
+25160,60 months,12.49,C,3 years,OWN,78958.33,car,FL,16.39,2,88.06,Fully Paid,0
+21059,60 months,8.34,A,< 1 year,MORTGAGE,62850.55,debt_consolidation,TX,31.44,0,17.78,Charged Off,1
+14575,36 months,13.61,E,5 years,MORTGAGE,66912.76,other,FL,38.53,0,21.42,Fully Paid,0
+8970,60 months,7.85,G,10+ years,OWN,61274.42,other,FL,5.5,1,38.98,Fully Paid,0
+22591,60 months,22.8,F,< 1 year,RENT,46346.57,home_improvement,TX,17.11,0,32.62,Fully Paid,0
+32821,36 months,11.92,G,< 1 year,OWN,77916.73,debt_consolidation,IL,19.5,1,63.4,Fully Paid,0
+10503,60 months,8.09,C,2 years,RENT,86705.99,credit_card,CA,15.36,0,90.76,Fully Paid,0
+19922,60 months,5.51,B,10+ years,OWN,85297.67,debt_consolidation,FL,14.85,0,96.42,Fully Paid,0
+13175,60 months,17.92,G,3 years,OWN,91398.51,debt_consolidation,FL,2.56,0,67.09,Fully Paid,0
+22389,60 months,17.74,C,< 1 year,MORTGAGE,81486.8,debt_consolidation,IL,27.58,0,84.63,Fully Paid,0
+1822,60 months,11.81,C,2 years,OWN,64345.49,other,IL,17.73,0,54.89,Fully Paid,0
+18327,36 months,6.43,B,1 year,OWN,91793.28,other,NY,8.19,0,24.79,Fully Paid,0
+7150,60 months,13.19,D,10+ years,RENT,47849.65,car,IL,32.73,0,54.85,Fully Paid,0
+5425,60 months,11.22,D,2 years,MORTGAGE,56986.57,credit_card,FL,32.2,1,57.73,Charged Off,1
+17032,36 months,18.54,A,2 years,RENT,55716.0,home_improvement,TX,19.71,0,75.53,Charged Off,1
+3198,36 months,17.12,A,2 years,RENT,96601.12,debt_consolidation,CA,12.29,1,25.89,Fully Paid,0
+21079,36 months,12.29,D,< 1 year,MORTGAGE,93855.77,credit_card,NY,25.7,1,39.99,Charged Off,1
+14859,60 months,9.36,F,< 1 year,MORTGAGE,84746.1,credit_card,TX,11.88,0,39.58,Fully Paid,0
+32419,36 months,24.76,E,1 year,MORTGAGE,96438.6,car,CA,9.82,1,96.15,Fully Paid,0
+9705,60 months,14.08,C,5 years,OWN,57414.34,home_improvement,CA,29.36,0,47.17,Fully Paid,0
+24236,60 months,18.77,E,5 years,MORTGAGE,81971.9,debt_consolidation,CA,2.09,1,76.73,Fully Paid,0
+23419,36 months,7.81,C,5 years,MORTGAGE,72496.51,home_improvement,TX,4.24,2,76.33,Fully Paid,0
+20978,36 months,14.71,D,10+ years,MORTGAGE,91937.64,car,NY,0.77,2,30.23,Fully Paid,0
+16358,60 months,5.55,A,10+ years,RENT,72695.52,other,NY,6.54,0,59.33,Charged Off,1
+30378,36 months,15.11,F,1 year,RENT,67301.14,credit_card,CA,3.23,0,89.96,Charged Off,1
+12382,60 months,24.28,A,10+ years,OWN,85818.17,debt_consolidation,TX,39.83,0,50.14,Fully Paid,0
+15596,36 months,12.68,E,5 years,RENT,92523.38,other,CA,11.91,1,94.79,Fully Paid,0
+34572,36 months,5.78,A,5 years,OWN,61633.1,car,IL,6.4,0,25.37,Fully Paid,0
+14221,36 months,5.62,D,2 years,RENT,73778.49,home_improvement,NY,10.02,0,12.05,Fully Paid,0
+2279,60 months,12.76,F,10+ years,MORTGAGE,53831.19,credit_card,FL,37.48,1,89.69,Fully Paid,0
+8083,36 months,8.2,E,< 1 year,RENT,25038.78,debt_consolidation,CA,21.05,0,85.53,Fully Paid,0
+18771,60 months,5.47,F,< 1 year,OWN,79009.19,other,IL,14.91,0,99.3,Fully Paid,0
+30975,60 months,20.12,C,2 years,RENT,87178.11,other,NY,35.0,1,69.54,Charged Off,1
+20063,60 months,14.17,A,2 years,MORTGAGE,80241.34,credit_card,TX,16.1,1,93.99,Fully Paid,0
+3106,60 months,10.78,F,2 years,OWN,36008.77,home_improvement,NY,13.73,0,83.56,Fully Paid,0
+25557,36 months,23.0,B,< 1 year,MORTGAGE,67983.01,car,TX,8.69,1,85.22,Fully Paid,0
+21607,60 months,7.32,A,5 years,MORTGAGE,30633.04,home_improvement,TX,15.42,0,59.07,Fully Paid,0
+29529,60 months,24.12,C,2 years,OWN,102394.02,home_improvement,CA,13.01,0,41.32,Charged Off,1
+28856,36 months,11.28,F,1 year,MORTGAGE,53278.91,home_improvement,CA,27.25,0,93.78,Fully Paid,0
+3573,60 months,22.77,E,2 years,MORTGAGE,100108.07,credit_card,NY,11.94,0,46.05,Charged Off,1
+13808,36 months,17.06,C,3 years,RENT,93917.39,credit_card,IL,23.3,0,56.19,Charged Off,1
+24752,60 months,21.53,B,2 years,MORTGAGE,56988.19,car,NY,3.1,0,47.38,Fully Paid,0
+18685,36 months,24.68,F,< 1 year,MORTGAGE,52344.3,home_improvement,FL,8.06,0,58.66,Fully Paid,0
+12372,60 months,10.77,G,10+ years,MORTGAGE,82007.4,credit_card,TX,16.59,1,49.7,Charged Off,1
+9996,36 months,24.22,G,2 years,MORTGAGE,58113.52,car,TX,37.51,0,9.56,Charged Off,1
+17458,60 months,12.79,D,10+ years,OWN,77049.69,car,CA,15.4,0,88.79,Fully Paid,0
+32889,60 months,12.71,A,3 years,RENT,65343.45,home_improvement,IL,26.73,0,47.22,Fully Paid,0
+27665,36 months,11.81,E,1 year,MORTGAGE,39376.83,debt_consolidation,CA,10.58,0,60.95,Fully Paid,0
+32653,36 months,15.83,D,10+ years,MORTGAGE,30390.64,home_improvement,FL,5.52,0,18.22,Fully Paid,0
+27657,36 months,8.08,F,5 years,OWN,79533.68,debt_consolidation,NY,2.81,0,5.32,Fully Paid,0
+23180,36 months,16.07,G,2 years,MORTGAGE,63768.85,car,NY,12.56,0,28.3,Charged Off,1
+32896,60 months,15.83,G,3 years,OWN,63938.2,credit_card,IL,6.73,0,71.94,Fully Paid,0
+13875,60 months,20.24,G,3 years,RENT,88917.28,other,CA,7.37,0,14.42,Fully Paid,0
+2622,36 months,21.67,F,10+ years,RENT,98468.85,car,CA,30.55,1,91.34,Fully Paid,0
+17725,60 months,13.81,G,1 year,MORTGAGE,69549.11,credit_card,FL,1.13,1,25.43,Fully Paid,0
+16646,36 months,11.05,C,< 1 year,MORTGAGE,68188.03,car,NY,22.53,0,24.44,Fully Paid,0
+18029,36 months,10.19,F,2 years,MORTGAGE,85002.86,home_improvement,CA,15.49,0,22.24,Charged Off,1
+30402,60 months,8.89,E,3 years,OWN,47861.29,debt_consolidation,IL,20.51,0,6.33,Fully Paid,0
+5263,60 months,6.15,D,1 year,MORTGAGE,79463.06,car,NY,22.73,0,78.32,Fully Paid,0
+31987,60 months,11.85,E,5 years,MORTGAGE,86037.72,credit_card,FL,12.88,0,88.13,Fully Paid,0
+9646,60 months,10.4,B,3 years,RENT,88604.6,home_improvement,IL,12.16,1,63.35,Fully Paid,0
+28529,60 months,24.33,G,1 year,MORTGAGE,36264.95,other,TX,29.47,0,22.88,Fully Paid,0
+12664,60 months,16.15,B,< 1 year,RENT,59772.89,home_improvement,FL,34.92,1,32.1,Fully Paid,0
+25027,60 months,11.95,A,< 1 year,MORTGAGE,57434.73,debt_consolidation,IL,8.11,0,50.21,Fully Paid,0
+30373,36 months,16.61,A,3 years,RENT,76997.74,home_improvement,CA,4.36,1,95.66,Fully Paid,0
+21609,36 months,7.78,B,3 years,MORTGAGE,84614.89,other,TX,35.96,0,28.5,Fully Paid,0
+20250,36 months,13.88,F,10+ years,RENT,104934.21,credit_card,FL,14.32,0,74.51,Fully Paid,0
+22172,36 months,17.52,E,2 years,OWN,65100.69,car,CA,22.28,0,46.75,Charged Off,1
+12555,36 months,14.78,B,1 year,RENT,65048.55,debt_consolidation,TX,14.7,1,33.3,Fully Paid,0
+22874,60 months,13.04,A,3 years,RENT,97993.44,other,NY,5.47,0,48.31,Fully Paid,0
+14081,36 months,24.88,B,2 years,RENT,80931.54,debt_consolidation,CA,23.78,0,11.76,Fully Paid,0
+25063,36 months,22.61,F,10+ years,MORTGAGE,100353.03,home_improvement,IL,21.24,0,80.88,Fully Paid,0
+7819,36 months,17.47,B,2 years,MORTGAGE,80774.56,debt_consolidation,FL,8.52,0,28.11,Fully Paid,0
+26712,36 months,16.39,E,3 years,MORTGAGE,51857.67,other,TX,18.35,0,73.91,Fully Paid,0
+25762,36 months,17.41,D,< 1 year,OWN,48337.43,car,CA,31.98,1,11.49,Fully Paid,0
+12046,36 months,9.03,F,1 year,OWN,43969.76,car,NY,23.82,0,95.73,Fully Paid,0
+32463,36 months,12.9,A,1 year,RENT,88241.04,debt_consolidation,FL,4.33,0,23.34,Charged Off,1
+29769,60 months,5.79,E,< 1 year,OWN,98771.94,credit_card,FL,22.15,0,88.86,Fully Paid,0
+24150,60 months,14.51,B,3 years,RENT,111987.24,debt_consolidation,CA,28.26,0,81.9,Fully Paid,0
+3711,36 months,15.86,B,1 year,RENT,91862.11,home_improvement,NY,31.81,2,96.95,Fully Paid,0
+5853,60 months,9.55,D,3 years,RENT,98256.77,car,TX,25.35,0,50.4,Charged Off,1
+30077,60 months,24.28,A,10+ years,OWN,63399.67,car,CA,6.53,1,74.1,Charged Off,1
+24863,60 months,23.19,A,3 years,MORTGAGE,51871.68,car,TX,28.55,0,40.22,Fully Paid,0
+22792,60 months,19.44,C,2 years,OWN,92001.59,credit_card,FL,27.26,0,22.51,Fully Paid,0
+9942,36 months,15.67,A,< 1 year,RENT,83353.62,credit_card,TX,1.46,1,47.09,Fully Paid,0
+2762,60 months,22.4,D,3 years,RENT,77148.89,other,NY,16.76,2,20.75,Fully Paid,0
+32987,60 months,7.61,G,10+ years,OWN,82747.43,debt_consolidation,IL,13.65,1,98.29,Fully Paid,0
